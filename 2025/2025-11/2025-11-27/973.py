@@ -7,6 +7,7 @@ class Solution(object):
 
         for point in points:
             distance = math.sqrt((point[0] * point[0]) + (point[1] * point[1]))
+            heapq.heappush(maxHeap, (-(distance), point))
 
         while len(maxHeap) > k:
             heapq.heappop(maxHeap)
