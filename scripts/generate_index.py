@@ -72,7 +72,7 @@ def build_block(records: list[dict[str, str]]) -> str:
             counts[r["difficulty"]] += 1
 
     lines = [START, ""]
-    lines.append(f"**{len(records)} problems solved** &nbsp;·&nbsp; "
+    lines.append(f"**{len(records)} problems documented** &nbsp;·&nbsp; "
                  f"{counts['Easy']} Easy &nbsp;·&nbsp; "
                  f"{counts['Medium']} Medium &nbsp;·&nbsp; "
                  f"{counts['Hard']} Hard")
