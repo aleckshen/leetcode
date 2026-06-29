@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**278 problems documented** &nbsp;·&nbsp; 67 Easy &nbsp;·&nbsp; 172 Medium &nbsp;·&nbsp; 39 Hard
+**280 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 173 Medium &nbsp;·&nbsp; 39 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -184,6 +184,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) | Easy | 2026-03-06 | [code](2026/2026-03/2026-03-06/1784.md) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | Medium | 2026-06-21 | [code](2026/2026-06/2026-06-21/1833.md) |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/) | Hard | 2026-06-20 | [code](2026/2026-06/2026-06-20/1840.md) |
+| 1846 | [Maximum Element After Decreasing And Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | Medium | 2026-06-28 | [code](2026/2026-06/2026-06-28/1846.md) |
 | 1848 | [Minimum Distance To The Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/) | Easy | 2026-04-13 | [code](2026/2026-04/2026-04-13/1848.md) |
 | 1855 | [Maximum Distance Between A Pair Of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/) | Medium | 2026-04-19 | [code](2026/2026-04/2026-04-19/1855.md) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box/description/) | Medium | 2026-05-06 | [code](2026/2026-05/2026-05-06/1861.md) |
@@ -195,6 +196,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/) | Medium | 2026-01-18 | [code](2026/2026-01/2026-01-18/1895.md) |
 | 1899 | [Merge Triplets To Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/) | Medium | 2025-12-26 | [code](2025/2025-12/2025-12-26/1899.md) |
 | 1914 | [Cyclically Rotating A Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium | 2026-05-09 | [code](2026/2026-05/2026-05-09/1914.md) |
+| 1967 | [Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/) | Easy | 2026-06-29 | [code](2026/2026-06/2026-06-29/1967.md) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/) | Medium | 2026-01-05 | [code](2026/2026-01/2026-01-05/1975.md) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | Medium | 2026-03-08 | [code](2026/2026-03/2026-03-08/1980.md) |
 | 1984 | [Minimum Difference Between High And Lowest Of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/) | Easy | 2026-01-25 | [code](2026/2026-01/2026-01-25/1984.md) |
