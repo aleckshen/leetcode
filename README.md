@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**280 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 173 Medium &nbsp;·&nbsp; 39 Hard
+**281 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 174 Medium &nbsp;·&nbsp; 39 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -155,6 +155,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1344 | [Angle Between Hands Of A Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | 2026-06-18 | [code](2026/2026-06/2026-06-18/1344.md) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/) | Hard | 2026-05-18 | [code](2026/2026-05/2026-05-18/1345.md) |
 | 1356 | [Sort Integers By The Number Of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/) | Easy | 2026-02-25 | [code](2026/2026-02/2026-02-25/1356.md) |
+| 1358 | [Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | Medium | 2026-06-30 | [code](2026/2026-06/2026-06-30/1358.md) |
 | 1382 | [Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | 2026-02-09 | [code](2026/2026-02/2026-02-09/1382.md) |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | Medium | 2026-01-04 | [code](2026/2026-01/2026-01-04/1390.md) |
 | 1391 | [Check If There Is A Valid Path In A Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | Medium | 2026-04-27 | [code](2026/2026-04/2026-04-27/1391.md) |
