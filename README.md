@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**281 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 174 Medium &nbsp;·&nbsp; 39 Hard
+**282 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 175 Medium &nbsp;·&nbsp; 39 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -223,6 +223,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2754 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | Easy | 2026-06-06 | [code](2026/2026-06/2026-06-06/2754.md) |
 | 2770 | [Maximum Number Of Jumps To Reach The Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | Medium | 2026-05-10 | [code](2026/2026-05/2026-05-10/2770.md) |
 | 2784 | [Check If Array Is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | Easy | 2026-05-14 | [code](2026/2026-05/2026-05-14/2784.md) |
+| 2812 | [Find Safest Path In A Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | 2026-07-01 | [code](2026/2026-07/2026-07-01/2812.md) |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/) | Easy | 2026-04-24 | [code](2026/2026-04/2026-04-24/2833.md) |
 | 2839 | [Check If String Can Be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/) | Easy | 2026-03-29 | [code](2026/2026-03/2026-03-29/2839.md) |
 | 2840 | [Check If String Can Be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | Medium | 2026-03-30 | [code](2026/2026-03/2026-03-30/2840.md) |
