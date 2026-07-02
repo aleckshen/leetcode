@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**282 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 175 Medium &nbsp;·&nbsp; 39 Hard
+**283 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 176 Medium &nbsp;·&nbsp; 39 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -246,6 +246,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3161 | [Block Replacement Queries](https://leetcode.com/problems/block-placement-queries/description/) | Hard | 2026-05-30 | [code](2026/2026-05/2026-05-30/3161.md) |
 | 3212 | [Count Submatrices With Equal Frequency Of X And Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/) | Medium | 2026-03-19 | [code](2026/2026-03/2026-03-19/3212.md) |
 | 3225 | [Maximum Score From Grid Operators](https://leetcode.com/problems/maximum-score-from-grid-operations/description/) | Hard | 2026-04-29 | [code](2026/2026-04/2026-04-29/3225.md) |
+| 3286 | [Find A Safe Walk Through A Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/) | Medium | 2026-07-02 | [code](2026/2026-07/2026-07-02/3286.md) |
 | 3296 | [Minimum Number Of Seconds To Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/) | Medium | 2026-03-13 | [code](2026/2026-03/2026-03-13/3296.md) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/) | Easy | 2026-05-29 | [code](2026/2026-05/2026-05-29/3300.md) |
 | 3314 | [Construct Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/) | Easy | 2026-01-20 | [code](2026/2026-01/2026-01-20/3314.md) |
