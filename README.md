@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**283 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 176 Medium &nbsp;·&nbsp; 39 Hard
+**284 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 176 Medium &nbsp;·&nbsp; 40 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -268,6 +268,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3600 | [Maximize Spanning Tree Stability With Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/) | Hard | 2026-03-12 | [code](2026/2026-03/2026-03-12/3600.md) |
 | 3612 | [Process String With Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/) | Medium | 2026-06-16 | [code](2026/2026-06/2026-06-16/3612.md) |
 | 3614 | [Process String With Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/) | Hard | 2026-06-17 | [code](2026/2026-06/2026-06-17/3614.md) |
+| 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/) | Hard | 2026-07-03 | [code](2026/2026-07/2026-07-03/3620.md) |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/) | Medium | 2026-05-08 | [code](2026/2026-05/2026-05-08/3629.md) |
 | 3633 | [Earliest Finish Time For Land And Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Easy | 2026-06-02 | [code](2026/2026-06/2026-06-02/3633.md) |
 | 3634 | [Minimum Removals To Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/) | Medium | 2026-02-06 | [code](2026/2026-02/2026-02-06/3634.md) |
