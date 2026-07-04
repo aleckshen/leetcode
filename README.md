@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**284 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 176 Medium &nbsp;·&nbsp; 40 Hard
+**285 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 177 Medium &nbsp;·&nbsp; 40 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -213,6 +213,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | Medium | 2026-06-07 | [code](2026/2026-06/2026-06-07/2196.md) |
 | 2452 | [Words Within Two Edits Of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/) | Medium | 2026-04-22 | [code](2026/2026-04/2026-04-22/2452.md) |
 | 2463 | [Minimum Total Distance Travelled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | Hard | 2026-04-14 | [code](2026/2026-04/2026-04-14/2463.md) |
+| 2492 | [Minimum Score Of A Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/) | Medium | 2026-07-04 | [code](2026/2026-07/2026-07-04/2492.md) |
 | 2515 | [Shortest Distance To Target String In A Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy | 2026-04-15 | [code](2026/2026-04/2026-04-15/2515.md) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | 2026-05-19 | [code](2026/2026-05/2026-05-19/2540.md) |
 | 2553 | [Separate Digits In An Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/) | Easy | 2026-05-11 | [code](2026/2026-05/2026-05-11/2553.md) |
