@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**286 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 177 Medium &nbsp;·&nbsp; 41 Hard
+**287 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 178 Medium &nbsp;·&nbsp; 41 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -147,6 +147,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | Easy | 2026-06-22 | [code](2026/2026-06/2026-06-22/1189.md) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | Easy | 2026-01-26 | [code](2026/2026-01/2026-01-26/1200.md) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | 2026-01-12 | [code](2026/2026-01/2026-01-12/1266.md) |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) | Medium | 2026-07-06 | [code](2026/2026-07/2026-07-06/1288.md) |
 | 1292 | [Maximum Side Length Of A Square With Sum Less Than Or Equal To Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) | Medium | 2026-01-19 | [code](2026/2026-01/2026-01-19/1292.md) |
 | 1301 | [Number Of Paths With Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) | Hard | 2026-07-05 | [code](2026/2026-07/2026-07-05/1301.md) |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | Medium | 2026-05-17 | [code](2026/2026-05/2026-05-17/1306.md) |
