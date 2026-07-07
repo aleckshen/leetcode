@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**287 problems documented** &nbsp;·&nbsp; 68 Easy &nbsp;·&nbsp; 178 Medium &nbsp;·&nbsp; 41 Hard
+**288 problems documented** &nbsp;·&nbsp; 69 Easy &nbsp;·&nbsp; 178 Medium &nbsp;·&nbsp; 41 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -301,6 +301,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3742 | [Maximum Score Path In A Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/description/) | Medium | 2026-04-30 | [code](2026/2026-04/2026-04-30/3742.md) |
 | 3751 | [Total Waviness Of Numbers In Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/) | Medium | 2026-06-04 | [code](2026/2026-06/2026-06-04/3751.md) |
 | 3753 | [Total Waviness Of Numbers In Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/description/) | Hard | 2026-06-05 | [code](2026/2026-06/2026-06-05/3753.md) |
+| 3754 | [Concatenate Non Zero Digits And Multiply Sum By I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/) | Easy | 2026-07-07 | [code](2026/2026-07/2026-07-07/3754.md) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/) | Medium | 2026-04-17 | [code](2026/2026-04/2026-04-17/3761.md) |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/) | Easy | 2026-04-18 | [code](2026/2026-04/2026-04-18/3783.md) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
