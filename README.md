@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**289 problems documented** &nbsp;·&nbsp; 69 Easy &nbsp;·&nbsp; 179 Medium &nbsp;·&nbsp; 41 Hard
+**290 problems documented** &nbsp;·&nbsp; 69 Easy &nbsp;·&nbsp; 180 Medium &nbsp;·&nbsp; 41 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -263,6 +263,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/description/) | Hard | 2026-03-31 | [code](2026/2026-03/2026-03-31/3474.md) |
 | 3507 | [Minimum Pair Removal To Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/) | Easy | 2026-01-22 | [code](2026/2026-01/2026-01-22/3507.md) |
 | 3510 | [Minimum Pair Removal To Sort II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/) | Hard | 2026-01-23 | [code](2026/2026-01/2026-01-23/3510.md) |
+| 3532 | [Path Existence Queries In A Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/) | Medium | 2026-07-09 | [code](2026/2026-07/2026-07-09/3532.md) |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | 2026-03-25 | [code](2026/2026-03/2026-03-25/3546.md) |
 | 3548 | [Equal Sum Grid Position II](https://leetcode.com/problemset/) | Hard | 2026-03-26 | [code](2026/2026-03/2026-03-26/3548.md) |
 | 3558 | [Number Of Ways To Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/) | Medium | 2026-06-11 | [code](2026/2026-06/2026-06-11/3558.md) |
