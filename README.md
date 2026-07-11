@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**291 problems documented** &nbsp;·&nbsp; 69 Easy &nbsp;·&nbsp; 180 Medium &nbsp;·&nbsp; 42 Hard
+**292 problems documented** &nbsp;·&nbsp; 69 Easy &nbsp;·&nbsp; 181 Medium &nbsp;·&nbsp; 42 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -222,6 +222,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2573 | [Find The String With LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | Hard | 2026-03-28 | [code](2026/2026-03/2026-03-28/2573.md) |
 | 2615 | [Sum Of Distances](https://leetcode.com/problems/sum-of-distances/description/) | Medium | 2026-04-23 | [code](2026/2026-04/2026-04-23/2615.md) |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | 2026-05-20 | [code](2026/2026-05/2026-05-20/2657.md) |
+| 2685 | [Count The Number Of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | Medium | 2026-07-11 | [code](2026/2026-07/2026-07-11/2685.md) |
 | 2751 | [Robot Collisons](https://leetcode.com/problems/robot-collisions/description/) | Hard | 2026-04-01 | [code](2026/2026-04/2026-04-01/2751.md) |
 | 2754 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | Easy | 2026-06-06 | [code](2026/2026-06/2026-06-06/2754.md) |
 | 2770 | [Maximum Number Of Jumps To Reach The Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | Medium | 2026-05-10 | [code](2026/2026-05/2026-05-10/2770.md) |
