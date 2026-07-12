@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**292 problems documented** &nbsp;·&nbsp; 69 Easy &nbsp;·&nbsp; 181 Medium &nbsp;·&nbsp; 42 Hard
+**293 problems documented** &nbsp;·&nbsp; 70 Easy &nbsp;·&nbsp; 181 Medium &nbsp;·&nbsp; 42 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -152,6 +152,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1301 | [Number Of Paths With Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) | Hard | 2026-07-05 | [code](2026/2026-07/2026-07-05/1301.md) |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | Medium | 2026-05-17 | [code](2026/2026-05/2026-05-17/1306.md) |
 | 1320 | [Minimum Distannce To Type A Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) | Hard | 2026-04-12 | [code](2026/2026-04/2026-04-12/1320.md) |
+| 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array/description/) | Easy | 2026-07-12 | [code](2026/2026-07/2026-07-12/1331.md) |
 | 1339 | [Maximum Product Of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | Medium | 2026-01-07 | [code](2026/2026-01/2026-01-07/1339.md) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard | 2026-05-24 | [code](2026/2026-05/2026-05-24/1340.md) |
 | 1344 | [Angle Between Hands Of A Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | 2026-06-18 | [code](2026/2026-06/2026-06-18/1344.md) |
