@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**295 problems documented** &nbsp;·&nbsp; 70 Easy &nbsp;·&nbsp; 182 Medium &nbsp;·&nbsp; 43 Hard
+**296 problems documented** &nbsp;·&nbsp; 71 Easy &nbsp;·&nbsp; 182 Medium &nbsp;·&nbsp; 43 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -289,6 +289,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3651 | [Minimum Cost Path With Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/) | Hard | 2026-01-28 | [code](2026/2026-01/2026-01-28/3651.md) |
 | 3653 | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium | 2026-04-08 | [code](2026/2026-04/2026-04-08/3653.md) |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/description/) | Hard | 2026-04-09 | [code](2026/2026-04/2026-04-09/3655.md) |
+| 3658 | [GCD Of Odd And Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/description/) | Easy | 2026-07-15 | [code](2026/2026-07/2026-07-15/3658.md) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | 2026-05-07 | [code](2026/2026-05/2026-05-07/3660.md) |
 | 3661 | [Maximum Walls Destroyed By Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Hard | 2026-04-03 | [code](2026/2026-04/2026-04-03/3661.md) |
 | 3666 | [Minimum Operations To Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/) | Hard | 2026-02-27 | [code](2026/2026-02/2026-02-27/3666.md) |
