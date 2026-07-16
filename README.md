@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**296 problems documented** &nbsp;·&nbsp; 71 Easy &nbsp;·&nbsp; 182 Medium &nbsp;·&nbsp; 43 Hard
+**297 problems documented** &nbsp;·&nbsp; 71 Easy &nbsp;·&nbsp; 183 Medium &nbsp;·&nbsp; 43 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -313,5 +313,6 @@ or open the solution file. To browse by date, explore the year folders.
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/) | Medium | 2026-04-17 | [code](2026/2026-04/2026-04-17/3761.md) |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/) | Easy | 2026-04-18 | [code](2026/2026-04/2026-04-18/3783.md) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
+| 3867 | [Sum Of GCD Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/) | Medium | 2026-07-16 | [code](2026/2026-07/2026-07-16/3867.md) |
 
 <!-- INDEX:END -->
