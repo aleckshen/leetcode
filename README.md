@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**297 problems documented** &nbsp;·&nbsp; 71 Easy &nbsp;·&nbsp; 183 Medium &nbsp;·&nbsp; 43 Hard
+**298 problems documented** &nbsp;·&nbsp; 71 Easy &nbsp;·&nbsp; 183 Medium &nbsp;·&nbsp; 44 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -255,6 +255,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3286 | [Find A Safe Walk Through A Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/) | Medium | 2026-07-02 | [code](2026/2026-07/2026-07-02/3286.md) |
 | 3296 | [Minimum Number Of Seconds To Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/) | Medium | 2026-03-13 | [code](2026/2026-03/2026-03-13/3296.md) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/) | Easy | 2026-05-29 | [code](2026/2026-05/2026-05-29/3300.md) |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | Hard | 2026-07-17 | [code](2026/2026-07/2026-07-17/3312.md) |
 | 3314 | [Construct Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/) | Easy | 2026-01-20 | [code](2026/2026-01/2026-01-20/3314.md) |
 | 3315 | [Construct The Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/) | Medium | 2026-01-21 | [code](2026/2026-01/2026-01-21/3315.md) |
 | 3336 | [Find The Number Of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/) | Hard | 2026-07-14 | [code](2026/2026-07/2026-07-14/3336.md) |
