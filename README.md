@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**300 problems documented** &nbsp;·&nbsp; 72 Easy &nbsp;·&nbsp; 184 Medium &nbsp;·&nbsp; 44 Hard
+**301 problems documented** &nbsp;·&nbsp; 73 Easy &nbsp;·&nbsp; 184 Medium &nbsp;·&nbsp; 44 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -147,6 +147,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1161 | [Maximum Level Sum Of A Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | Medium | 2026-01-06 | [code](2026/2026-01/2026-01-06/1161.md) |
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | Easy | 2026-06-22 | [code](2026/2026-06/2026-06-22/1189.md) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | Easy | 2026-01-26 | [code](2026/2026-01/2026-01-26/1200.md) |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/) | Easy | 2026-07-20 | [code](2026/2026-07/2026-07-20/1260.md) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | 2026-01-12 | [code](2026/2026-01/2026-01-12/1266.md) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) | Medium | 2026-07-06 | [code](2026/2026-07/2026-07-06/1288.md) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | Medium | 2026-07-13 | [code](2026/2026-07/2026-07-13/1291.md) |
