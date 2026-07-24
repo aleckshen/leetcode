@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**304 problems documented** &nbsp;·&nbsp; 73 Easy &nbsp;·&nbsp; 186 Medium &nbsp;·&nbsp; 45 Hard
+**305 problems documented** &nbsp;·&nbsp; 73 Easy &nbsp;·&nbsp; 187 Medium &nbsp;·&nbsp; 45 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -274,6 +274,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3507 | [Minimum Pair Removal To Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/) | Easy | 2026-01-22 | [code](2026/2026-01/2026-01-22/3507.md) |
 | 3510 | [Minimum Pair Removal To Sort II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/) | Hard | 2026-01-23 | [code](2026/2026-01/2026-01-23/3510.md) |
 | 3513 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/) | Medium | 2026-07-23 | [code](2026/2026-07/2026-07-23/3513.md) |
+| 3514 | [Number Of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/description/) | Medium | 2026-07-24 | [code](2026/2026-07/2026-07-24/3514.md) |
 | 3532 | [Path Existence Queries In A Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/) | Medium | 2026-07-09 | [code](2026/2026-07/2026-07-09/3532.md) |
 | 3534 | [Path Existence Queries In A Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/) | Hard | 2026-07-10 | [code](2026/2026-07/2026-07-10/3534.md) |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | 2026-03-25 | [code](2026/2026-03/2026-03-25/3546.md) |
