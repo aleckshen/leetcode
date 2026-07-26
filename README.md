@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**306 problems documented** &nbsp;·&nbsp; 74 Easy &nbsp;·&nbsp; 187 Medium &nbsp;·&nbsp; 45 Hard
+**307 problems documented** &nbsp;·&nbsp; 75 Easy &nbsp;·&nbsp; 187 Medium &nbsp;·&nbsp; 45 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -110,6 +110,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/description/) | Medium | 2025-11-16 | [code](2025/2025-11/2025-11-16/567.md) |
 | 572 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | Easy | 2025-11-24 | [code](2025/2025-11/2025-11-24/572.md) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | Medium | 2025-11-28 | [code](2025/2025-11/2025-11-28/621.md) |
+| 628 | [Maximum Product Of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | Easy | 2026-07-26 | [code](2026/2026-07/2026-07-26/628.md) |
 | 647 | [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/description/) | Medium | 2025-12-16 | [code](2025/2025-12/2025-12-16/647.md) |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | Easy | 2026-04-05 | [code](2026/2026-04/2026-04-05/657.md) |
 | 678 | [Valid String Parentheses](https://leetcode.com/problems/valid-parenthesis-string/description/) | Medium | 2025-12-28 | [code](2025/2025-12/2025-12-28/678.md) |
