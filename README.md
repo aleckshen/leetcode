@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**308 problems documented** &nbsp;·&nbsp; 76 Easy &nbsp;·&nbsp; 187 Medium &nbsp;·&nbsp; 45 Hard
+**309 problems documented** &nbsp;·&nbsp; 76 Easy &nbsp;·&nbsp; 188 Medium &nbsp;·&nbsp; 45 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -277,6 +277,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3510 | [Minimum Pair Removal To Sort II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/) | Hard | 2026-01-23 | [code](2026/2026-01/2026-01-23/3510.md) |
 | 3513 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/) | Medium | 2026-07-23 | [code](2026/2026-07/2026-07-23/3513.md) |
 | 3514 | [Number Of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/description/) | Medium | 2026-07-24 | [code](2026/2026-07/2026-07-24/3514.md) |
+| 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/description/) | Medium | 2026-07-28 | [code](2026/2026-07/2026-07-28/3517.md) |
 | 3532 | [Path Existence Queries In A Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/) | Medium | 2026-07-09 | [code](2026/2026-07/2026-07-09/3532.md) |
 | 3534 | [Path Existence Queries In A Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/) | Hard | 2026-07-10 | [code](2026/2026-07/2026-07-10/3534.md) |
 | 3536 | [Maximum Product Of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/description/) | Easy | 2026-07-25 | [code](2026/2026-07/2026-07-25/3536.md) |
