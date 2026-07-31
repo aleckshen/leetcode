@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**311 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 188 Medium &nbsp;·&nbsp; 46 Hard
+**312 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 189 Medium &nbsp;·&nbsp; 46 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -247,6 +247,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3010 | [Divide An Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/) | Easy | 2026-02-01 | [code](2026/2026-02/2026-02-01/3010.md) |
 | 3013 | [Divide An Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/) | Hard | 2026-02-02 | [code](2026/2026-02/2026-02-02/3013.md) |
 | 3014 | [Minimum Number To Push To Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 2026-07-30 | [code](2026/2026-07/2026-07-30/3014.md) |
+| 3016 | [Minimum Number To Push To Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/) | Medium | 2026-07-31 | [code](2026/2026-07/2026-07-31/3016.md) |
 | 3020 | [Find The Maximum Number Of Elements In Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/) | Medium | 2026-06-27 | [code](2026/2026-06/2026-06-27/3020.md) |
 | 3043 | [Find The Length Of The Longest Common Preifx](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | Medium | 2026-05-21 | [code](2026/2026-05/2026-05-21/3043.md) |
 | 3047 | [Find The Largest Area Of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/) | Medium | 2026-01-17 | [code](2026/2026-01/2026-01-17/3047.md) |
