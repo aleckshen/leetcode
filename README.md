@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**312 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 189 Medium &nbsp;·&nbsp; 46 Hard
+**313 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 190 Medium &nbsp;·&nbsp; 46 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -104,6 +104,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | 2025-12-05 | [code](2025/2025-12/2025-12-05/417.md) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | 2025-11-16 | [code](2025/2025-11/2025-11-16/424.md) |
 | 435 | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | 2025-12-31 | [code](2025/2025-12/2025-12-31/435.md) |
+| 486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/description/) | Medium | 2026-08-01 | [code](2026/2026-08/2026-08-01/486.md) |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | Medium | 2025-12-22 | [code](2025/2025-12/2025-12-22/494.md) |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | Medium | 2025-12-21 | [code](2025/2025-12/2025-12-21/518.md) |
 | 543 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 2025-11-24 | [code](2025/2025-11/2025-11-24/543.md) |
