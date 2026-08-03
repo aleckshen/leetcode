@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**314 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 191 Medium &nbsp;·&nbsp; 46 Hard
+**315 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 191 Medium &nbsp;·&nbsp; 47 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -169,6 +169,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | Medium | 2026-01-04 | [code](2026/2026-01/2026-01-04/1390.md) |
 | 1391 | [Check If There Is A Valid Path In A Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | Medium | 2026-04-27 | [code](2026/2026-04/2026-04-27/1391.md) |
 | 1404 | [Number Of Steps To Reduce A Number In Binary Representation To One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/) | Medium | 2026-02-26 | [code](2026/2026-02/2026-02-26/1404.md) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/description/) | Hard | 2026-08-03 | [code](2026/2026-08/2026-08-03/1406.md) |
 | 1411 | [Count The Number Of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium | 2026-05-27 | [code](2026/2026-05/2026-05-27/1411.md) |
 | 1415 | [The Kth Lexicographical Of All Happy Strings Of Legnth N](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | Medium | 2026-03-14 | [code](2026/2026-03/2026-03-14/1415.md) |
 | 1448 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | Medium | 2025-11-26 | [code](2025/2025-11/2025-11-26/1448.md) |
