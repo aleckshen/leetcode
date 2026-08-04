@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**315 problems documented** &nbsp;·&nbsp; 77 Easy &nbsp;·&nbsp; 191 Medium &nbsp;·&nbsp; 47 Hard
+**316 problems documented** &nbsp;·&nbsp; 78 Easy &nbsp;·&nbsp; 191 Medium &nbsp;·&nbsp; 47 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -319,6 +319,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/description/) | Medium | 2026-02-13 | [code](2026/2026-02/2026-02-13/3714.md) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/description/) | Medium | 2026-02-10 | [code](2026/2026-02/2026-02-10/3719.md) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | 2026-02-11 | [code](2026/2026-02/2026-02-11/3721.md) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/) | Easy | 2026-08-04 | [code](2026/2026-08/2026-08-04/3731.md) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/) | Medium | 2026-06-25 | [code](2026/2026-06/2026-06-25/3737.md) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/) | Hard | 2026-06-26 | [code](2026/2026-06/2026-06-26/3739.md) |
 | 3740 | [Minimum Distance Between Three Equal Elements](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | 2026-04-10 | [code](2026/2026-04/2026-04-10/3740.md) |
