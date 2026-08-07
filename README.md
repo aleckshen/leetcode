@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**318 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 192 Medium &nbsp;·&nbsp; 47 Hard
+**319 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 192 Medium &nbsp;·&nbsp; 48 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -271,6 +271,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3315 | [Construct The Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/) | Medium | 2026-01-21 | [code](2026/2026-01/2026-01-21/3315.md) |
 | 3336 | [Find The Number Of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/) | Hard | 2026-07-14 | [code](2026/2026-07/2026-07-14/3336.md) |
 | 3345 | [Smallest Divisble Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/description/) | Easy | 2026-08-06 | [code](2026/2026-08/2026-08-06/3345.md) |
+| 3348 | [Smallest Divisble Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/) | Hard | 2026-08-07 | [code](2026/2026-08/2026-08-07/3348.md) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/description/) | Easy | 2026-02-05 | [code](2026/2026-02/2026-02-05/3379.md) |
 | 3418 | [Maximum Amount Of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/) | Medium | 2026-04-02 | [code](2026/2026-04/2026-04-02/3418.md) |
 | 3448 | [Closest Equal Element Queries ](https://leetcode.com/problems/closest-equal-element-queries/description/) | Medium | 2026-04-16 | [code](2026/2026-04/2026-04-16/3448.md) |
