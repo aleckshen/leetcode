@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**320 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 193 Medium &nbsp;·&nbsp; 48 Hard
+**321 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 194 Medium &nbsp;·&nbsp; 48 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -146,6 +146,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | Easy | 2026-02-24 | [code](2026/2026-02/2026-02-24/1022.md) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | Easy | 2025-11-27 | [code](2025/2025-11/2025-11-27/1046.md) |
 | 1081 | [Smallest Subsequence Of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/2072880336/) | Medium | 2026-07-19 | [code](2026/2026-07/2026-07-19/1081.md) |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | 2026-08-09 | [code](2026/2026-08/2026-08-09/1140.md) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | Medium | 2025-12-19 | [code](2025/2025-12/2025-12-19/1143.md) |
 | 1161 | [Maximum Level Sum Of A Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | Medium | 2026-01-06 | [code](2026/2026-01/2026-01-06/1161.md) |
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | Easy | 2026-06-22 | [code](2026/2026-06/2026-06-22/1189.md) |
