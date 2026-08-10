@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**321 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 194 Medium &nbsp;·&nbsp; 48 Hard
+**322 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 194 Medium &nbsp;·&nbsp; 49 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -177,6 +177,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1458 | [Max Dot Product Of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | Hard | 2026-01-08 | [code](2026/2026-01/2026-01-08/1458.md) |
 | 1461 | [Check If A String Contains All Binary Codes Of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | Medium | 2026-02-23 | [code](2026/2026-02/2026-02-23/1461.md) |
 | 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 2026-07-27 | [code](2026/2026-07/2026-07-27/1464.md) |
+| 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/) | Hard | 2026-08-10 | [code](2026/2026-08/2026-08-10/1510.md) |
 | 1536 | [Minimum Swaps to Arrange Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | Medium | 2026-03-02 | [code](2026/2026-03/2026-03-02/1536.md) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | Medium | 2026-03-03 | [code](2026/2026-03/2026-03-03/1545.md) |
 | 1559 | [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | Medium | 2026-04-26 | [code](2026/2026-04/2026-04-26/1559.md) |
