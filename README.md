@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**322 problems documented** &nbsp;·&nbsp; 79 Easy &nbsp;·&nbsp; 194 Medium &nbsp;·&nbsp; 49 Hard
+**323 problems documented** &nbsp;·&nbsp; 80 Easy &nbsp;·&nbsp; 194 Medium &nbsp;·&nbsp; 49 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -250,6 +250,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2975 | [Maximum Square Area By Removing Fences From A Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/) | Medium | 2026-01-16 | [code](2026/2026-01/2026-01-16/2975.md) |
 | 2976 | [Minimum Cost To Covert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | 2026-01-29 | [code](2026/2026-01/2026-01-29/2976.md) |
 | 2977 | [Minimum Cost To Covert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/) | Hard | 2026-01-30 | [code](2026/2026-01/2026-01-30/2977.md) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/) | Easy | 2026-08-11 | [code](2026/2026-08/2026-08-11/2996.md) |
 | 3010 | [Divide An Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/) | Easy | 2026-02-01 | [code](2026/2026-02/2026-02-01/3010.md) |
 | 3013 | [Divide An Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/) | Hard | 2026-02-02 | [code](2026/2026-02/2026-02-02/3013.md) |
 | 3014 | [Minimum Number To Push To Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 2026-07-30 | [code](2026/2026-07/2026-07-30/3014.md) |
