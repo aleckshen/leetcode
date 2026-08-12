@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**323 problems documented** &nbsp;·&nbsp; 80 Easy &nbsp;·&nbsp; 194 Medium &nbsp;·&nbsp; 49 Hard
+**324 problems documented** &nbsp;·&nbsp; 80 Easy &nbsp;·&nbsp; 195 Medium &nbsp;·&nbsp; 49 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -247,6 +247,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | Medium | 2026-03-24 | [code](2026/2026-03/2026-03-24/2906.md) |
 | 2943 | [Maximize Area Of Square Hole In Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | Medium | 2026-01-15 | [code](2026/2026-01/2026-01-15/2943.md) |
 | 2946 | [Matrix Similarity After Cycle Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/) | Easy | 2026-03-27 | [code](2026/2026-03/2026-03-27/2946.md) |
+| 2958 | [Length Of Longest Subarray With At Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/) | Medium | 2026-08-12 | [code](2026/2026-08/2026-08-12/2958.md) |
 | 2975 | [Maximum Square Area By Removing Fences From A Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/) | Medium | 2026-01-16 | [code](2026/2026-01/2026-01-16/2975.md) |
 | 2976 | [Minimum Cost To Covert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | 2026-01-29 | [code](2026/2026-01/2026-01-29/2976.md) |
 | 2977 | [Minimum Cost To Covert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/) | Hard | 2026-01-30 | [code](2026/2026-01/2026-01-30/2977.md) |
