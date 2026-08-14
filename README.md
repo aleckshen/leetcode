@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**325 problems documented** &nbsp;·&nbsp; 80 Easy &nbsp;·&nbsp; 195 Medium &nbsp;·&nbsp; 50 Hard
+**326 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 195 Medium &nbsp;·&nbsp; 50 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -261,6 +261,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3043 | [Find The Length Of The Longest Common Preifx](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | Medium | 2026-05-21 | [code](2026/2026-05/2026-05-21/3043.md) |
 | 3047 | [Find The Largest Area Of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/) | Medium | 2026-01-17 | [code](2026/2026-01/2026-01-17/3047.md) |
 | 3070 | [Count Submatrices With Top Left Element And Sum Less Than K](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/) | Medium | 2026-03-18 | [code](2026/2026-03/2026-03-18/3070.md) |
+| 3090 | [Maximum Length Substring With Two Occurences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/description/) | Easy | 2026-08-14 | [code](2026/2026-08/2026-08-14/3090.md) |
 | 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/description/) | Hard | 2026-05-28 | [code](2026/2026-05/2026-05-28/3093.md) |
 | 3120 | [Count The Number Of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/) | Easy | 2026-05-26 | [code](2026/2026-05/2026-05-26/3120.md) |
 | 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/) | Medium | 2026-03-09 | [code](2026/2026-03/2026-03-09/3129.md) |
