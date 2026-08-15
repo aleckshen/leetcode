@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**326 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 195 Medium &nbsp;·&nbsp; 50 Hard
+**327 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 196 Medium &nbsp;·&nbsp; 50 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -325,6 +325,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | 2026-06-10 | [code](2026/2026-06/2026-06-10/3691.md) |
 | 3699 | [Number Of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/) | Hard | 2026-06-23 | [code](2026/2026-06/2026-06-23/3699.md) |
 | 3700 | [Number Of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/description/) | Hard | 2026-06-24 | [code](2026/2026-06/2026-06-24/3700.md) |
+| 3702 | [Longest Subsequence With Non Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 2026-08-15 | [code](2026/2026-08/2026-08-15/3702.md) |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/) | Medium | 2026-02-12 | [code](2026/2026-02/2026-02-12/3713.md) |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/description/) | Medium | 2026-02-13 | [code](2026/2026-02/2026-02-13/3714.md) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/description/) | Medium | 2026-02-10 | [code](2026/2026-02/2026-02-10/3719.md) |
