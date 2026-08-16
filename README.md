@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**327 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 196 Medium &nbsp;·&nbsp; 50 Hard
+**328 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 197 Medium &nbsp;·&nbsp; 50 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -215,6 +215,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1979 | [Find Greatest Common Divisor Of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 2026-07-18 | [code](2026/2026-07/2026-07-18/1979.md) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | Medium | 2026-03-08 | [code](2026/2026-03/2026-03-08/1980.md) |
 | 1984 | [Minimum Difference Between High And Lowest Of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/) | Easy | 2026-01-25 | [code](2026/2026-01/2026-01-25/1984.md) |
+| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/) | Medium | 2026-08-16 | [code](2026/2026-08/2026-08-16/2029.md) |
 | 2033 | [Minimum Operations To Make A Uni Value Grind](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | 2026-04-28 | [code](2026/2026-04/2026-04-28/2033.md) |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | Medium | 2026-04-07 | [code](2026/2026-04/2026-04-07/2069.md) |
 | 2075 | [Decode The Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | Medium | 2026-04-04 | [code](2026/2026-04/2026-04-04/2075.md) |
