@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**328 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 197 Medium &nbsp;·&nbsp; 50 Hard
+**329 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 197 Medium &nbsp;·&nbsp; 51 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -181,6 +181,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1536 | [Minimum Swaps to Arrange Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | Medium | 2026-03-02 | [code](2026/2026-03/2026-03-02/1536.md) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | Medium | 2026-03-03 | [code](2026/2026-03/2026-03-03/1545.md) |
 | 1559 | [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | Medium | 2026-04-26 | [code](2026/2026-04/2026-04-26/1559.md) |
+| 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/description/) | Hard | 2026-08-17 | [code](2026/2026-08/2026-08-17/1563.md) |
 | 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) | Easy | 2026-03-04 | [code](2026/2026-03/2026-03-04/1582.md) |
 | 1584 | [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Medium | 2025-12-11 | [code](2025/2025-12/2025-12-11/1584.md) |
 | 1594 | [Maximum Non Negative Product In Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) | Medium | 2026-03-23 | [code](2026/2026-03/2026-03-23/1594.md) |
