@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**329 problems documented** &nbsp;·&nbsp; 81 Easy &nbsp;·&nbsp; 197 Medium &nbsp;·&nbsp; 51 Hard
+**330 problems documented** &nbsp;·&nbsp; 82 Easy &nbsp;·&nbsp; 197 Medium &nbsp;·&nbsp; 51 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -287,6 +287,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3453 | [Seperate Squares I](https://leetcode.com/problems/separate-squares-i/description/) | Medium | 2026-01-13 | [code](2026/2026-01/2026-01-13/3453.md) |
 | 3454 | [Seperate Squares II](https://leetcode.com/problems/separate-squares-ii/description/) | Hard | 2026-01-14 | [code](2026/2026-01/2026-01-14/3454.md) |
 | 3464 | [Maximize The Distance Between Points On A Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/) | Hard | 2026-04-25 | [code](2026/2026-04/2026-04-25/3464.md) |
+| 3471 | [Find The Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/) | Easy | 2026-08-18 | [code](2026/2026-08/2026-08-18/3471.md) |
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/description/) | Hard | 2026-03-31 | [code](2026/2026-03/2026-03-31/3474.md) |
 | 3499 | [Maximize Active Section With Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium | 2026-07-21 | [code](2026/2026-07/2026-07-21/3499.md) |
 | 3501 | [Maximize Active Section With Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/) | Hard | 2026-07-22 | [code](2026/2026-07/2026-07-22/3501.md) |
