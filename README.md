@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**330 problems documented** &nbsp;·&nbsp; 82 Easy &nbsp;·&nbsp; 197 Medium &nbsp;·&nbsp; 51 Hard
+**331 problems documented** &nbsp;·&nbsp; 82 Easy &nbsp;·&nbsp; 198 Medium &nbsp;·&nbsp; 51 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -167,6 +167,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1356 | [Sort Integers By The Number Of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/) | Easy | 2026-02-25 | [code](2026/2026-02/2026-02-25/1356.md) |
 | 1358 | [Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | Medium | 2026-06-30 | [code](2026/2026-06/2026-06-30/1358.md) |
 | 1382 | [Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | 2026-02-09 | [code](2026/2026-02/2026-02-09/1382.md) |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 2026-08-19 | [code](2026/2026-08/2026-08-19/1386.md) |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | Medium | 2026-01-04 | [code](2026/2026-01/2026-01-04/1390.md) |
 | 1391 | [Check If There Is A Valid Path In A Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | Medium | 2026-04-27 | [code](2026/2026-04/2026-04-27/1391.md) |
 | 1404 | [Number Of Steps To Reduce A Number In Binary Representation To One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/) | Medium | 2026-02-26 | [code](2026/2026-02/2026-02-26/1404.md) |
