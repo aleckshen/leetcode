@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**334 problems documented** &nbsp;·&nbsp; 84 Easy &nbsp;·&nbsp; 198 Medium &nbsp;·&nbsp; 52 Hard
+**335 problems documented** &nbsp;·&nbsp; 84 Easy &nbsp;·&nbsp; 199 Medium &nbsp;·&nbsp; 52 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -212,6 +212,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/) | Medium | 2026-01-18 | [code](2026/2026-01/2026-01-18/1895.md) |
 | 1899 | [Merge Triplets To Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/) | Medium | 2025-12-26 | [code](2025/2025-12/2025-12-26/1899.md) |
 | 1914 | [Cyclically Rotating A Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium | 2026-05-09 | [code](2026/2026-05/2026-05-09/1914.md) |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium | 2026-08-23 | [code](2026/2026-08/2026-08-23/1927.md) |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/) | Easy | 2026-06-29 | [code](2026/2026-06/2026-06-29/1967.md) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/) | Medium | 2026-01-05 | [code](2026/2026-01/2026-01-05/1975.md) |
 | 1979 | [Find Greatest Common Divisor Of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 2026-07-18 | [code](2026/2026-07/2026-07-18/1979.md) |
