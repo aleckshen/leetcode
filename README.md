@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**335 problems documented** &nbsp;·&nbsp; 84 Easy &nbsp;·&nbsp; 199 Medium &nbsp;·&nbsp; 52 Hard
+**336 problems documented** &nbsp;·&nbsp; 84 Easy &nbsp;·&nbsp; 199 Medium &nbsp;·&nbsp; 53 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -205,6 +205,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1855 | [Maximum Distance Between A Pair Of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/) | Medium | 2026-04-19 | [code](2026/2026-04/2026-04-19/1855.md) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box/description/) | Medium | 2026-05-06 | [code](2026/2026-05/2026-05-06/1861.md) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/) | Medium | 2026-05-25 | [code](2026/2026-05/2026-05-25/1871.md) |
+| 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/) | Hard | 2026-08-24 | [code](2026/2026-08/2026-08-24/1872.md) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | Medium | 2026-01-24 | [code](2026/2026-01/2026-01-24/1877.md) |
 | 1878 | [Get Biggest Three Rhombus Sums In A Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/) | Medium | 2026-03-16 | [code](2026/2026-03/2026-03-16/1878.md) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/) | Easy | 2026-03-22 | [code](2026/2026-03/2026-03-22/1886.md) |
