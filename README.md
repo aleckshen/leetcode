@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**336 problems documented** &nbsp;·&nbsp; 84 Easy &nbsp;·&nbsp; 199 Medium &nbsp;·&nbsp; 53 Hard
+**337 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 199 Medium &nbsp;·&nbsp; 53 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -337,6 +337,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3702 | [Longest Subsequence With Non Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 2026-08-15 | [code](2026/2026-08/2026-08-15/3702.md) |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/) | Medium | 2026-02-12 | [code](2026/2026-02/2026-02-12/3713.md) |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/description/) | Medium | 2026-02-13 | [code](2026/2026-02/2026-02-13/3714.md) |
+| 3718 | [Smallest Missing Multiple Of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 2026-08-25 | [code](2026/2026-08/2026-08-25/3718.md) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/description/) | Medium | 2026-02-10 | [code](2026/2026-02/2026-02-10/3719.md) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | 2026-02-11 | [code](2026/2026-02/2026-02-11/3721.md) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/) | Easy | 2026-08-04 | [code](2026/2026-08/2026-08-04/3731.md) |
