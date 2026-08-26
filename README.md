@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**337 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 199 Medium &nbsp;·&nbsp; 53 Hard
+**338 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 200 Medium &nbsp;·&nbsp; 53 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -250,6 +250,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/) | Easy | 2026-04-24 | [code](2026/2026-04/2026-04-24/2833.md) |
 | 2839 | [Check If String Can Be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/) | Easy | 2026-03-29 | [code](2026/2026-03/2026-03-29/2839.md) |
 | 2840 | [Check If String Can Be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | Medium | 2026-03-30 | [code](2026/2026-03/2026-03-30/2840.md) |
+| 2904 | [Shortest Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/) | Medium | 2026-08-26 | [code](2026/2026-08/2026-08-26/2904.md) |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | Medium | 2026-03-24 | [code](2026/2026-03/2026-03-24/2906.md) |
 | 2943 | [Maximize Area Of Square Hole In Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | Medium | 2026-01-15 | [code](2026/2026-01/2026-01-15/2943.md) |
 | 2946 | [Matrix Similarity After Cycle Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/) | Easy | 2026-03-27 | [code](2026/2026-03/2026-03-27/2946.md) |
