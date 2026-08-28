@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**339 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 201 Medium &nbsp;·&nbsp; 53 Hard
+**340 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 201 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -343,6 +343,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/description/) | Medium | 2026-08-27 | [code](2026/2026-08/2026-08-27/3720.md) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | 2026-02-11 | [code](2026/2026-02/2026-02-11/3721.md) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/) | Easy | 2026-08-04 | [code](2026/2026-08/2026-08-04/3731.md) |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/description/) | Hard | 2026-08-28 | [code](2026/2026-08/2026-08-28/3734.md) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/) | Medium | 2026-06-25 | [code](2026/2026-06/2026-06-25/3737.md) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/) | Hard | 2026-06-26 | [code](2026/2026-06/2026-06-26/3739.md) |
 | 3740 | [Minimum Distance Between Three Equal Elements](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | 2026-04-10 | [code](2026/2026-04/2026-04-10/3740.md) |
