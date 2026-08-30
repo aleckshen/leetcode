@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**341 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 202 Medium &nbsp;·&nbsp; 54 Hard
+**342 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 203 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -224,6 +224,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | Medium | 2026-04-07 | [code](2026/2026-04/2026-04-07/2069.md) |
 | 2075 | [Decode The Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | Medium | 2026-04-04 | [code](2026/2026-04/2026-04-04/2075.md) |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | Easy | 2026-04-20 | [code](2026/2026-04/2026-04-20/2078.md) |
+| 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 2026-08-30 | [code](2026/2026-08/2026-08-30/2091.md) |
 | 2095 | [Delete The Middle Node Of A Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 2026-06-15 | [code](2026/2026-06/2026-06-15/2095.md) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | Medium | 2026-05-31 | [code](2026/2026-05/2026-05-31/2126.md) |
 | 2130 | [Maximum Twin Sum Of A Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | Medium | 2026-06-14 | [code](2026/2026-06/2026-06-14/2130.md) |
