@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**342 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 203 Medium &nbsp;·&nbsp; 54 Hard
+**343 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 204 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -221,6 +221,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1984 | [Minimum Difference Between High And Lowest Of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/) | Easy | 2026-01-25 | [code](2026/2026-01/2026-01-25/1984.md) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/) | Medium | 2026-08-16 | [code](2026/2026-08/2026-08-16/2029.md) |
 | 2033 | [Minimum Operations To Make A Uni Value Grind](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | 2026-04-28 | [code](2026/2026-04/2026-04-28/2033.md) |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) | Medium | 2026-08-31 | [code](2026/2026-08/2026-08-31/2058.md) |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | Medium | 2026-04-07 | [code](2026/2026-04/2026-04-07/2069.md) |
 | 2075 | [Decode The Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | Medium | 2026-04-04 | [code](2026/2026-04/2026-04-04/2075.md) |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | Easy | 2026-04-20 | [code](2026/2026-04/2026-04-20/2078.md) |
