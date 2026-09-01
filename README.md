@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**343 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 204 Medium &nbsp;·&nbsp; 54 Hard
+**344 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 205 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -314,6 +314,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3558 | [Number Of Ways To Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/) | Medium | 2026-06-11 | [code](2026/2026-06/2026-06-11/3558.md) |
 | 3559 | [Number Of Ways To Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/) | Hard | 2026-06-12 | [code](2026/2026-06/2026-06-12/3559.md) |
 | 3567 | [Minimum Absolute Difference In Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/) | Medium | 2026-03-20 | [code](2026/2026-03/2026-03-20/3567.md) |
+| 3568 | [Minimum Moves To Clean The Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/) | Medium | 2026-09-01 | [code](2026/2026-09/2026-09-01/3568.md) |
 | 3600 | [Maximize Spanning Tree Stability With Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/) | Hard | 2026-03-12 | [code](2026/2026-03/2026-03-12/3600.md) |
 | 3612 | [Process String With Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/) | Medium | 2026-06-16 | [code](2026/2026-06/2026-06-16/3612.md) |
 | 3614 | [Process String With Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/) | Hard | 2026-06-17 | [code](2026/2026-06/2026-06-17/3614.md) |
