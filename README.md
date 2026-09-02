@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**344 problems documented** &nbsp;·&nbsp; 85 Easy &nbsp;·&nbsp; 205 Medium &nbsp;·&nbsp; 54 Hard
+**345 problems documented** &nbsp;·&nbsp; 86 Easy &nbsp;·&nbsp; 205 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -361,5 +361,6 @@ or open the solution file. To browse by date, explore the year folders.
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/) | Easy | 2026-04-18 | [code](2026/2026-04/2026-04-18/3783.md) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
 | 3867 | [Sum Of GCD Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/) | Medium | 2026-07-16 | [code](2026/2026-07/2026-07-16/3867.md) |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 2026-09-02 | [code](2026/2026-09/2026-09-02/3875.md) |
 
 <!-- INDEX:END -->
