@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**345 problems documented** &nbsp;·&nbsp; 86 Easy &nbsp;·&nbsp; 205 Medium &nbsp;·&nbsp; 54 Hard
+**346 problems documented** &nbsp;·&nbsp; 86 Easy &nbsp;·&nbsp; 206 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -362,5 +362,6 @@ or open the solution file. To browse by date, explore the year folders.
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
 | 3867 | [Sum Of GCD Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/) | Medium | 2026-07-16 | [code](2026/2026-07/2026-07-16/3867.md) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 2026-09-02 | [code](2026/2026-09/2026-09-02/3875.md) |
+| 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 2026-09-03 | [code](2026/2026-09/2026-09-03/3876.md) |
 
 <!-- INDEX:END -->
