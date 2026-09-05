@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**347 problems documented** &nbsp;·&nbsp; 87 Easy &nbsp;·&nbsp; 206 Medium &nbsp;·&nbsp; 54 Hard
+**348 problems documented** &nbsp;·&nbsp; 87 Easy &nbsp;·&nbsp; 207 Medium &nbsp;·&nbsp; 54 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -364,5 +364,6 @@ or open the solution file. To browse by date, explore the year folders.
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 2026-09-02 | [code](2026/2026-09/2026-09-02/3875.md) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 2026-09-03 | [code](2026/2026-09/2026-09-03/3876.md) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | 2026-09-04 | [code](2026/2026-09/2026-09-04/3903.md) |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 2026-09-05 | [code](2026/2026-09/2026-09-05/3904.md) |
 
 <!-- INDEX:END -->
