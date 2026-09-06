@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**348 problems documented** &nbsp;·&nbsp; 87 Easy &nbsp;·&nbsp; 207 Medium &nbsp;·&nbsp; 54 Hard
+**349 problems documented** &nbsp;·&nbsp; 87 Easy &nbsp;·&nbsp; 207 Medium &nbsp;·&nbsp; 55 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -58,6 +58,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 104 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 2025-11-23 | [code](2025/2025-11/2025-11-23/104.md) |
 | 105 | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Medium | 2025-11-26 | [code](2025/2025-11/2025-11-26/105.md) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | Easy | 2026-02-08 | [code](2026/2026-02/2026-02-08/110.md) |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | 2026-09-06 | [code](2026/2026-09/2026-09-06/115.md) |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 2025-11-15 | [code](2025/2025-11/2025-11-15/121.md) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 2025-11-13 | [code](2025/2025-11/2025-11-13/125.md) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Medium | 2025-11-09 | [code](2025/2025-11/2025-11-09/128.md) |
