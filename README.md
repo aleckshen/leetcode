@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**349 problems documented** &nbsp;·&nbsp; 87 Easy &nbsp;·&nbsp; 207 Medium &nbsp;·&nbsp; 55 Hard
+**350 problems documented** &nbsp;·&nbsp; 87 Easy &nbsp;·&nbsp; 207 Medium &nbsp;·&nbsp; 56 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -140,6 +140,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | Medium | 2026-04-06 | [code](2026/2026-04/2026-04-06/874.md) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Medium | 2025-11-21 | [code](2025/2025-11/2025-11-21/875.md) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | Medium | 2026-08-02 | [code](2026/2026-08/2026-08-02/877.md) |
+| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 2026-09-07 | [code](2026/2026-09/2026-09-07/940.md) |
 | 961 | [N Repeated Elements In Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) | Easy | 2026-01-02 | [code](2026/2026-01/2026-01-02/961.md) |
 | 973 | [K Closest Points To Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | Medium | 2025-11-27 | [code](2025/2025-11/2025-11-27/973.md) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | Medium | 2025-12-04 | [code](2025/2025-12/2025-12-04/994.md) |
