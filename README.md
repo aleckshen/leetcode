@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**351 problems documented** &nbsp;·&nbsp; 88 Easy &nbsp;·&nbsp; 207 Medium &nbsp;·&nbsp; 56 Hard
+**352 problems documented** &nbsp;·&nbsp; 88 Easy &nbsp;·&nbsp; 208 Medium &nbsp;·&nbsp; 56 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -364,6 +364,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
 | 3867 | [Sum Of GCD Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/) | Medium | 2026-07-16 | [code](2026/2026-07/2026-07-16/3867.md) |
 | 3870 | [Count Commas In Range](https://leetcode.com/problems/count-commas-in-range/description/) | Easy | 2026-09-08 | [code](2026/2026-09/2026-09-08/3870.md) |
+| 3871 | [Count Commas In Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/) | Medium | 2026-09-09 | [code](2026/2026-09/2026-09-09/3871.md) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 2026-09-02 | [code](2026/2026-09/2026-09-02/3875.md) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 2026-09-03 | [code](2026/2026-09/2026-09-03/3876.md) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | 2026-09-04 | [code](2026/2026-09/2026-09-04/3903.md) |
