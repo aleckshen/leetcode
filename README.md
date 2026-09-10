@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**352 problems documented** &nbsp;·&nbsp; 88 Easy &nbsp;·&nbsp; 208 Medium &nbsp;·&nbsp; 56 Hard
+**353 problems documented** &nbsp;·&nbsp; 88 Easy &nbsp;·&nbsp; 209 Medium &nbsp;·&nbsp; 56 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -235,6 +235,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | Medium | 2026-06-08 | [code](2026/2026-06/2026-06-08/2161.md) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | Medium | 2026-06-07 | [code](2026/2026-06/2026-06-07/2196.md) |
 | 2213 | [Longest Substring Of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/) | Hard | 2026-08-13 | [code](2026/2026-08/2026-08-13/2213.md) |
+| 2265 | [Count Nodes Equal To Average Of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | 2026-09-10 | [code](2026/2026-09/2026-09-10/2265.md) |
 | 2452 | [Words Within Two Edits Of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/) | Medium | 2026-04-22 | [code](2026/2026-04/2026-04-22/2452.md) |
 | 2463 | [Minimum Total Distance Travelled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | Hard | 2026-04-14 | [code](2026/2026-04/2026-04-14/2463.md) |
 | 2473 | [Find The Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/) | Medium | 2026-08-08 | [code](2026/2026-08/2026-08-08/3302.md) |
