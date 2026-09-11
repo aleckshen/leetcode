@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**353 problems documented** &nbsp;·&nbsp; 88 Easy &nbsp;·&nbsp; 209 Medium &nbsp;·&nbsp; 56 Hard
+**354 problems documented** &nbsp;·&nbsp; 89 Easy &nbsp;·&nbsp; 209 Medium &nbsp;·&nbsp; 56 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -301,6 +301,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3464 | [Maximize The Distance Between Points On A Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/) | Hard | 2026-04-25 | [code](2026/2026-04/2026-04-25/3464.md) |
 | 3471 | [Find The Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/) | Easy | 2026-08-18 | [code](2026/2026-08/2026-08-18/3471.md) |
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/description/) | Hard | 2026-03-31 | [code](2026/2026-03/2026-03-31/3474.md) |
+| 3483 | [Unique 3 Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/description/) | Easy | 2026-09-11 | [code](2026/2026-09/2026-09-11/3483.md) |
 | 3499 | [Maximize Active Section With Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium | 2026-07-21 | [code](2026/2026-07/2026-07-21/3499.md) |
 | 3501 | [Maximize Active Section With Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/) | Hard | 2026-07-22 | [code](2026/2026-07/2026-07-22/3501.md) |
 | 3507 | [Minimum Pair Removal To Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/) | Easy | 2026-01-22 | [code](2026/2026-01/2026-01-22/3507.md) |
