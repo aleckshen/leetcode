@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**355 problems documented** &nbsp;·&nbsp; 89 Easy &nbsp;·&nbsp; 209 Medium &nbsp;·&nbsp; 57 Hard
+**356 problems documented** &nbsp;·&nbsp; 89 Easy &nbsp;·&nbsp; 210 Medium &nbsp;·&nbsp; 57 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -133,6 +133,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium | 2026-05-02 | [code](2026/2026-05/2026-05-02/788.md) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | Easy | 2026-05-03 | [code](2026/2026-05/2026-05-03/796.md) |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | Medium | 2026-02-14 | [code](2026/2026-02/2026-02-14/799.md) |
+| 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | Medium | 2026-09-13 | [code](2026/2026-09/2026-09-13/835.md) |
 | 846 | [Hand Of Straights](https://leetcode.com/problems/hand-of-straights/description/) | Medium | 2025-12-26 | [code](2025/2025-12/2025-12-26/846.md) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | Medium | 2025-11-12 | [code](2025/2025-11/2025-11-12/853.md) |
 | 865 | [Smallest Subtree With All Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | Medium | 2026-01-09 | [code](2026/2026-01/2026-01-09/865.md) |
