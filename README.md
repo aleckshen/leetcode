@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**357 problems documented** &nbsp;·&nbsp; 90 Easy &nbsp;·&nbsp; 210 Medium &nbsp;·&nbsp; 57 Hard
+**358 problems documented** &nbsp;·&nbsp; 90 Easy &nbsp;·&nbsp; 210 Medium &nbsp;·&nbsp; 58 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -240,6 +240,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 2265 | [Count Nodes Equal To Average Of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | 2026-09-10 | [code](2026/2026-09/2026-09-10/2265.md) |
 | 2452 | [Words Within Two Edits Of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/) | Medium | 2026-04-22 | [code](2026/2026-04/2026-04-22/2452.md) |
 | 2463 | [Minimum Total Distance Travelled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | Hard | 2026-04-14 | [code](2026/2026-04/2026-04-14/2463.md) |
+| 2472 | [Maximium Number Of Non Overlapping Palindrom Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/) | Hard | 2026-09-15 | [code](2026/2026-09/2026-09-15/2472.md) |
 | 2473 | [Find The Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/) | Medium | 2026-08-08 | [code](2026/2026-08/2026-08-08/3302.md) |
 | 2492 | [Minimum Score Of A Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/) | Medium | 2026-07-04 | [code](2026/2026-07/2026-07-04/2492.md) |
 | 2515 | [Shortest Distance To Target String In A Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy | 2026-04-15 | [code](2026/2026-04/2026-04-15/2515.md) |
