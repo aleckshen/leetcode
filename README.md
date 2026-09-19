@@ -184,7 +184,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 2026-07-27 | [code](2026/2026-07/2026-07-27/1464.md) |
 | 1477 | [Find two Non overlapping Sub arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/) | Medium | 2026-09-17 | [code](2026/2026-09/2026-09-17/1477.md) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/) | Hard | 2026-08-10 | [code](2026/2026-08/2026-08-10/1510.md) |
-| 1520 | [Maximum Number of Non Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) | Hardc | 2206-09-18 | [code](2026/2026-09/2206-09-18/1520.md) |
+| 1520 | [Maximum Number of Non Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) | Hardc | 2026-09-18 | [code](2026/2026-09/2026-09-18/1520.md) |
 | 1536 | [Minimum Swaps to Arrange Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | Medium | 2026-03-02 | [code](2026/2026-03/2026-03-02/1536.md) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | Medium | 2026-03-03 | [code](2026/2026-03/2026-03-03/1545.md) |
 | 1559 | [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | Medium | 2026-04-26 | [code](2026/2026-04/2026-04-26/1559.md) |
