@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**361 problems documented** &nbsp;·&nbsp; 90 Easy &nbsp;·&nbsp; 212 Medium &nbsp;·&nbsp; 58 Hard
+**362 problems documented** &nbsp;·&nbsp; 90 Easy &nbsp;·&nbsp; 213 Medium &nbsp;·&nbsp; 58 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -174,6 +174,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 2026-08-19 | [code](2026/2026-08/2026-08-19/1386.md) |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | Medium | 2026-01-04 | [code](2026/2026-01/2026-01-04/1390.md) |
 | 1391 | [Check If There Is A Valid Path In A Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | Medium | 2026-04-27 | [code](2026/2026-04/2026-04-27/1391.md) |
+| 1401 | [Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/?envType=daily-question&envId=2026-09-19) | Medium | 2026-09-19 | [code](2026/2026-09/2026-09-19/1401.md) |
 | 1404 | [Number Of Steps To Reduce A Number In Binary Representation To One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/) | Medium | 2026-02-26 | [code](2026/2026-02/2026-02-26/1404.md) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/description/) | Hard | 2026-08-03 | [code](2026/2026-08/2026-08-03/1406.md) |
 | 1411 | [Count The Number Of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium | 2026-05-27 | [code](2026/2026-05/2026-05-27/1411.md) |
