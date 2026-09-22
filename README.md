@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**364 problems documented** &nbsp;·&nbsp; 91 Easy &nbsp;·&nbsp; 214 Medium &nbsp;·&nbsp; 58 Hard
+**365 problems documented** &nbsp;·&nbsp; 91 Easy &nbsp;·&nbsp; 214 Medium &nbsp;·&nbsp; 59 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -320,6 +320,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/description/) | Medium | 2026-07-28 | [code](2026/2026-07/2026-07-28/3517.md) |
 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/) | Hard | 2026-07-29 | [code](2026/2026-07/2026-07-29/3518.md) |
 | 3524 | [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/description/) | Medium | 2026-09-21 | [code](2026/2026-09/2026-09-21/3524.md) |
+| 3525 | [Find X Value In Array II](https://leetcode.com/problems/find-x-value-of-array-ii/description/) | Hard | 2026-09-22 | [code](2026/2026-09/2026-09-22/3525.md) |
 | 3532 | [Path Existence Queries In A Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/) | Medium | 2026-07-09 | [code](2026/2026-07/2026-07-09/3532.md) |
 | 3534 | [Path Existence Queries In A Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/) | Hard | 2026-07-10 | [code](2026/2026-07/2026-07-10/3534.md) |
 | 3536 | [Maximum Product Of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/description/) | Easy | 2026-07-25 | [code](2026/2026-07/2026-07-25/3536.md) |
