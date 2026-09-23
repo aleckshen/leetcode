@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**365 problems documented** &nbsp;·&nbsp; 91 Easy &nbsp;·&nbsp; 214 Medium &nbsp;·&nbsp; 59 Hard
+**366 problems documented** &nbsp;·&nbsp; 91 Easy &nbsp;·&nbsp; 215 Medium &nbsp;·&nbsp; 59 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -196,6 +196,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/?envType=daily-question&envId=2026-09-16) | Medium | 2026-09-16 | [code](2026/2026-09/2026-09-16/1621.md) |
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/) | Hard | 2026-03-15 | [code](2026/2026-03/2026-03-15/1622.md) |
 | 1653 | [Minimum Deletions To Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/) | Medium | 2026-02-07 | [code](2026/2026-02/2026-02-07/1653.md) |
+| 1658 | [Minimum Operations To Reduce X To Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/) | Medium | 2026-09-23 | [code](2026/2026-09/2026-09-23/1658.md) |
 | 1665 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/description/) | Hard | 2026-05-12 | [code](2026/2026-05/2026-05-12/1665.md) |
 | 1674 | [Minimum Moves To Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | Medium | 2026-05-13 | [code](2026/2026-05/2026-05-13/1674.md) |
 | 1680 | [Concatenation Of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/) | Medium | 2026-02-28 | [code](2026/2026-02/2026-02-28/1680.md) |
