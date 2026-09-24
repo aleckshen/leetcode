@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**366 problems documented** &nbsp;·&nbsp; 91 Easy &nbsp;·&nbsp; 215 Medium &nbsp;·&nbsp; 59 Hard
+**367 problems documented** &nbsp;·&nbsp; 92 Easy &nbsp;·&nbsp; 215 Medium &nbsp;·&nbsp; 59 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -327,6 +327,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 3536 | [Maximum Product Of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/description/) | Easy | 2026-07-25 | [code](2026/2026-07/2026-07-25/3536.md) |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | 2026-03-25 | [code](2026/2026-03/2026-03-25/3546.md) |
 | 3548 | [Equal Sum Grid Position II](https://leetcode.com/problemset/) | Hard | 2026-03-26 | [code](2026/2026-03/2026-03-26/3548.md) |
+| 3550 | [Smallest Index With Digit Sum Eqaul To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/description/) | Easy | 2026-09-24 | [code](2026/2026-09/2026-09-24/3550.md) |
 | 3558 | [Number Of Ways To Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/) | Medium | 2026-06-11 | [code](2026/2026-06/2026-06-11/3558.md) |
 | 3559 | [Number Of Ways To Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/) | Hard | 2026-06-12 | [code](2026/2026-06/2026-06-12/3559.md) |
 | 3567 | [Minimum Absolute Difference In Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/) | Medium | 2026-03-20 | [code](2026/2026-03/2026-03-20/3567.md) |
