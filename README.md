@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**367 problems documented** &nbsp;·&nbsp; 92 Easy &nbsp;·&nbsp; 215 Medium &nbsp;·&nbsp; 59 Hard
+**368 problems documented** &nbsp;·&nbsp; 92 Easy &nbsp;·&nbsp; 215 Medium &nbsp;·&nbsp; 60 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -150,6 +150,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | Easy | 2026-02-24 | [code](2026/2026-02/2026-02-24/1022.md) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | Easy | 2025-11-27 | [code](2025/2025-11/2025-11-27/1046.md) |
 | 1081 | [Smallest Subsequence Of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/2072880336/) | Medium | 2026-07-19 | [code](2026/2026-07/2026-07-19/1081.md) |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) | Hard | 2026-09-25 | [code](2026/2026-09/2026-09-25/1096.md) |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | 2026-08-09 | [code](2026/2026-08/2026-08-09/1140.md) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | Medium | 2025-12-19 | [code](2025/2025-12/2025-12-19/1143.md) |
 | 1161 | [Maximum Level Sum Of A Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | Medium | 2026-01-06 | [code](2026/2026-01/2026-01-06/1161.md) |
