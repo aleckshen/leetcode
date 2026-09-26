@@ -13,7 +13,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**368 problems documented** &nbsp;·&nbsp; 92 Easy &nbsp;·&nbsp; 215 Medium &nbsp;·&nbsp; 60 Hard
+**369 problems documented** &nbsp;·&nbsp; 92 Easy &nbsp;·&nbsp; 216 Medium &nbsp;·&nbsp; 60 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -208,6 +208,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 1752 | [Check If Array Is Sorted And Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | Easy | 2026-05-23 | [code](2026/2026-05/2026-05-23/1752.md) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) | Easy | 2026-03-05 | [code](2026/2026-03/2026-03-05/1758.md) |
 | 1784 | [Check If Binary String Has At Most One Segment Of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) | Easy | 2026-03-06 | [code](2026/2026-03/2026-03-06/1784.md) |
+| 1807 | [Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-26 | [code](2026/2026-09/2026-09-26/1807.md) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | Medium | 2026-06-21 | [code](2026/2026-06/2026-06-21/1833.md) |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/) | Hard | 2026-06-20 | [code](2026/2026-06/2026-06-20/1840.md) |
 | 1846 | [Maximum Element After Decreasing And Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | Medium | 2026-06-28 | [code](2026/2026-06/2026-06-28/1846.md) |
