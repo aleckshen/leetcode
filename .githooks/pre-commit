@@ -1,0 +1,4 @@
+#!/bin/sh
+# Regenerate the README problem index and include it in this commit.
+# Enable once per clone: git config core.hooksPath .githooks
+python3 scripts/generate_index.py && git add README.md
