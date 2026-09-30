@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**372 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 217 Medium &nbsp;·&nbsp; 61 Hard
+**373 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 218 Medium &nbsp;·&nbsp; 61 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -162,6 +162,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | Easy | 2025-11-27 | [code](2025/2025-11/2025-11-27/1046.md) |
 | 1081 | [Smallest Subsequence Of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/2072880336/) | Medium | 2026-07-19 | [code](2026/2026-07/2026-07-19/1081.md) |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) | Hard | 2026-09-25 | [code](2026/2026-09/2026-09-25/1096.md) |
+| 1111 | [Maximum Nesting Depth Of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) | Medium | 2026-09-30 | [code](2026/2026-09/2026-09-30/1111.md) |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | 2026-08-09 | [code](2026/2026-08/2026-08-09/1140.md) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | Medium | 2025-12-19 | [code](2025/2025-12/2025-12-19/1143.md) |
 | 1161 | [Maximum Level Sum Of A Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | Medium | 2026-01-06 | [code](2026/2026-01/2026-01-06/1161.md) |
