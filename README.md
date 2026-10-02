@@ -37,7 +37,7 @@ Without this the hook never runs and commits land with a stale index.
 | 19 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | 2025-11-19 | [code](2025/2025-11/2025-11-19/19.md) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | 2026-10-01 | [code](2026/2026-10/2026-10-01/20.md) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 2025-11-17 | [code](2025/2025-11/2025-11-17/21.md) |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium | 2025-11-30 | [code](2025/2025-11/2025-11-30/22.md) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium | 2026-10-02 | [code](2026/2026-10/2026-10-02/22.md) |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium | 2026-05-22 | [code](2026/2026-05/2026-05-22/33.md) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | 2025-11-09 | [code](2025/2025-11/2025-11-09/36.md) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Medium | 2025-11-29 | [code](2025/2025-11/2025-11-29/39.md) |
