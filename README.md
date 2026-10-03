@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**373 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 218 Medium &nbsp;·&nbsp; 61 Hard
+**374 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 218 Medium &nbsp;·&nbsp; 62 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -38,6 +38,7 @@ Without this the hook never runs and commits land with a stale index.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | 2026-10-01 | [code](2026/2026-10/2026-10-01/20.md) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 2025-11-17 | [code](2025/2025-11/2025-11-17/21.md) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium | 2026-10-02 | [code](2026/2026-10/2026-10-02/22.md) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | Hard | 2026-10-03 | [code](2026/2026-10/2026-10-03/32.md) |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium | 2026-05-22 | [code](2026/2026-05/2026-05-22/33.md) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | 2025-11-09 | [code](2025/2025-11/2025-11-09/36.md) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Medium | 2025-11-29 | [code](2025/2025-11/2025-11-29/39.md) |
