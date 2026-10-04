@@ -127,7 +127,7 @@ Without this the hook never runs and commits land with a stale index.
 | 628 | [Maximum Product Of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | Easy | 2026-07-26 | [code](2026/2026-07/2026-07-26/628.md) |
 | 647 | [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/description/) | Medium | 2025-12-16 | [code](2025/2025-12/2025-12-16/647.md) |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | Easy | 2026-04-05 | [code](2026/2026-04/2026-04-05/657.md) |
-| 678 | [Valid String Parentheses](https://leetcode.com/problems/valid-parenthesis-string/description/) | Medium | 2025-12-28 | [code](2025/2025-12/2025-12-28/678.md) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | Medium | 2026-10-04 | [code](2026/2026-10/2026-10-04/678.md) |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | Medium | 2025-12-09 | [code](2025/2025-12/2025-12-09/684.md) |
 | 693 | [Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | 2026-02-18 | [code](2026/2026-02/2026-02-18/693.md) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | Easy | 2026-02-19 | [code](2026/2026-02/2026-02-19/696.md) |
