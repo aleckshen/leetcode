@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**374 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 218 Medium &nbsp;·&nbsp; 62 Hard
+**375 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 219 Medium &nbsp;·&nbsp; 62 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -149,6 +149,7 @@ Without this the hook never runs and commits land with a stale index.
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | 2026-09-14 | [code](2026/2026-09/2026-09-14/836.md) |
 | 846 | [Hand Of Straights](https://leetcode.com/problems/hand-of-straights/description/) | Medium | 2025-12-26 | [code](2025/2025-12/2025-12-26/846.md) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | Medium | 2025-11-12 | [code](2025/2025-11/2025-11-12/853.md) |
+| 856 | [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | Medium | 2026-10-05 | [code](2026/2026-10/2026-10-05/856.md) |
 | 865 | [Smallest Subtree With All Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | Medium | 2026-01-09 | [code](2026/2026-01/2026-01-09/865.md) |
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | Easy | 2026-02-22 | [code](2026/2026-02/2026-02-22/868.md) |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | Medium | 2026-04-06 | [code](2026/2026-04/2026-04-06/874.md) |
