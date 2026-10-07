@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**376 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 220 Medium &nbsp;·&nbsp; 62 Hard
+**377 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 220 Medium &nbsp;·&nbsp; 63 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -109,6 +109,7 @@ Without this the hook never runs and commits land with a stale index.
 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | 2025-11-19 | [code](2025/2025-11/2025-11-19/287.md) |
 | 295 | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/submissions/) | Medium | 2025-12-03 | [code](2025/2025-12/2025-12-03/295.md) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Medium | 2025-12-18 | [code](2025/2025-12/2025-12-18/300.md) |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | Hard | 2026-10-07 | [code](2026/2026-10/2026-10-07/301.md) |
 | 309 | [Best Time To Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Medium | 2025-12-20 | [code](2025/2025-12/2025-12-20/309.md) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | Medium | 2025-12-16 | [code](2025/2025-12/2025-12-16/322.md) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | 2025-11-08 | [code](2025/2025-11/2025-11-08/347.md) |
