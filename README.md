@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**377 problems documented** &nbsp;·&nbsp; 93 Easy &nbsp;·&nbsp; 220 Medium &nbsp;·&nbsp; 63 Hard
+**378 problems documented** &nbsp;·&nbsp; 94 Easy &nbsp;·&nbsp; 220 Medium &nbsp;·&nbsp; 63 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -162,6 +162,7 @@ Without this the hook never runs and commits land with a stale index.
 | 973 | [K Closest Points To Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | Medium | 2025-11-27 | [code](2025/2025-11/2025-11-27/973.md) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | Medium | 2025-12-04 | [code](2025/2025-12/2025-12-04/994.md) |
 | 1009 | [Complement Of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) | Easy | 2026-03-11 | [code](2026/2026-03/2026-03-11/1009.md) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | Easy | 2026-10-08 | [code](2026/2026-10/2026-10-08/1021.md) |
 | 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | Easy | 2026-02-24 | [code](2026/2026-02/2026-02-24/1022.md) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | Easy | 2025-11-27 | [code](2025/2025-11/2025-11-27/1046.md) |
 | 1081 | [Smallest Subsequence Of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/2072880336/) | Medium | 2026-07-19 | [code](2026/2026-07/2026-07-19/1081.md) |
