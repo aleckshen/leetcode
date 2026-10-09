@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**378 problems documented** &nbsp;·&nbsp; 94 Easy &nbsp;·&nbsp; 220 Medium &nbsp;·&nbsp; 63 Hard
+**379 problems documented** &nbsp;·&nbsp; 94 Easy &nbsp;·&nbsp; 221 Medium &nbsp;·&nbsp; 63 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -206,6 +206,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/) | Hard | 2026-08-10 | [code](2026/2026-08/2026-08-10/1510.md) |
 | 1520 | [Maximum Number of Non Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) | Hardc | 2026-09-18 | [code](2026/2026-09/2026-09-18/1520.md) |
 | 1536 | [Minimum Swaps to Arrange Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | Medium | 2026-03-02 | [code](2026/2026-03/2026-03-02/1536.md) |
+| 1541 | [Minimum Insertions To Balance A Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/) | Medium | 2026-10-09 | [code](2026/2026-10/2026-10-09/1541.md) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | Medium | 2026-03-03 | [code](2026/2026-03/2026-03-03/1545.md) |
 | 1559 | [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | Medium | 2026-04-26 | [code](2026/2026-04/2026-04-26/1559.md) |
 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/description/) | Hard | 2026-08-17 | [code](2026/2026-08/2026-08-17/1563.md) |
