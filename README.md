@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**380 problems documented** &nbsp;·&nbsp; 94 Easy &nbsp;·&nbsp; 222 Medium &nbsp;·&nbsp; 63 Hard
+**381 problems documented** &nbsp;·&nbsp; 95 Easy &nbsp;·&nbsp; 222 Medium &nbsp;·&nbsp; 63 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -282,6 +282,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2751 | [Robot Collisons](https://leetcode.com/problems/robot-collisions/description/) | Hard | 2026-04-01 | [code](2026/2026-04/2026-04-01/2751.md) |
 | 2754 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | Easy | 2026-06-06 | [code](2026/2026-06/2026-06-06/2754.md) |
 | 2770 | [Maximum Number Of Jumps To Reach The Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | Medium | 2026-05-10 | [code](2026/2026-05/2026-05-10/2770.md) |
+| 2778 | [Sum Of Squares Of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/) | Easy | 2026-10-11 | [code](2026/2026-10/2026-10-11/2778.md) |
 | 2784 | [Check If Array Is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | Easy | 2026-05-14 | [code](2026/2026-05/2026-05-14/2784.md) |
 | 2812 | [Find Safest Path In A Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | 2026-07-01 | [code](2026/2026-07/2026-07-01/2812.md) |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/) | Easy | 2026-04-24 | [code](2026/2026-04/2026-04-24/2833.md) |
