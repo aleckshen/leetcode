@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**381 problems documented** &nbsp;·&nbsp; 95 Easy &nbsp;·&nbsp; 222 Medium &nbsp;·&nbsp; 63 Hard
+**382 problems documented** &nbsp;·&nbsp; 95 Easy &nbsp;·&nbsp; 222 Medium &nbsp;·&nbsp; 64 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -288,6 +288,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/) | Easy | 2026-04-24 | [code](2026/2026-04/2026-04-24/2833.md) |
 | 2839 | [Check If String Can Be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/) | Easy | 2026-03-29 | [code](2026/2026-03/2026-03-29/2839.md) |
 | 2840 | [Check If String Can Be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | Medium | 2026-03-30 | [code](2026/2026-03/2026-03-30/2840.md) |
+| 2897 | [Apply Operations On Array To Maximize Sum Of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/) | Hard | 2026-10-12 | [code](2026/2026-10/2026-10-12/2897.md) |
 | 2904 | [Shortest Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/) | Medium | 2026-08-26 | [code](2026/2026-08/2026-08-26/2904.md) |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | Medium | 2026-03-24 | [code](2026/2026-03/2026-03-24/2906.md) |
 | 2943 | [Maximize Area Of Square Hole In Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | Medium | 2026-01-15 | [code](2026/2026-01/2026-01-15/2943.md) |
