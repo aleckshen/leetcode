@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**385 problems documented** &nbsp;·&nbsp; 96 Easy &nbsp;·&nbsp; 224 Medium &nbsp;·&nbsp; 64 Hard
+**386 problems documented** &nbsp;·&nbsp; 96 Easy &nbsp;·&nbsp; 224 Medium &nbsp;·&nbsp; 65 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -292,6 +292,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2904 | [Shortest Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/) | Medium | 2026-08-26 | [code](2026/2026-08/2026-08-26/2904.md) |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | Medium | 2026-03-24 | [code](2026/2026-03/2026-03-24/2906.md) |
 | 2913 | [Subarrays Distinct Element Sum Of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) | Easy | 2026-10-15 | [code](2026/2026-10/2026-10-15/2913.md) |
+| 2916 | [Subarrays Distinct Element Sum Of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | Hard | 2026-10-16 | [code](2026/2026-10/2026-10-16/2916.md) |
 | 2943 | [Maximize Area Of Square Hole In Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | Medium | 2026-01-15 | [code](2026/2026-01/2026-01-15/2943.md) |
 | 2946 | [Matrix Similarity After Cycle Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/) | Easy | 2026-03-27 | [code](2026/2026-03/2026-03-27/2946.md) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | Medium | 2026-08-29 | [code](2026/2026-08/2026-08-29/2948.md) |
