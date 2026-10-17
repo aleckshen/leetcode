@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**386 problems documented** &nbsp;·&nbsp; 96 Easy &nbsp;·&nbsp; 224 Medium &nbsp;·&nbsp; 65 Hard
+**387 problems documented** &nbsp;·&nbsp; 96 Easy &nbsp;·&nbsp; 225 Medium &nbsp;·&nbsp; 65 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -356,6 +356,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | 2026-03-25 | [code](2026/2026-03/2026-03-25/3546.md) |
 | 3548 | [Equal Sum Grid Position II](https://leetcode.com/problemset/) | Hard | 2026-03-26 | [code](2026/2026-03/2026-03-26/3548.md) |
 | 3550 | [Smallest Index With Digit Sum Eqaul To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/description/) | Easy | 2026-09-24 | [code](2026/2026-09/2026-09-24/3550.md) |
+| 3551 | [Minimum Swaps To Sort By Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/description/) | Medium | 2026-10-17 | [code](2026/2026-10/2026-10-17/3551.md) |
 | 3558 | [Number Of Ways To Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/) | Medium | 2026-06-11 | [code](2026/2026-06/2026-06-11/3558.md) |
 | 3559 | [Number Of Ways To Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/) | Hard | 2026-06-12 | [code](2026/2026-06/2026-06-12/3559.md) |
 | 3567 | [Minimum Absolute Difference In Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/) | Medium | 2026-03-20 | [code](2026/2026-03/2026-03-20/3567.md) |
