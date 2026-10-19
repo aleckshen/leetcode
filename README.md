@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**388 problems documented** &nbsp;·&nbsp; 96 Easy &nbsp;·&nbsp; 225 Medium &nbsp;·&nbsp; 66 Hard
+**389 problems documented** &nbsp;·&nbsp; 97 Easy &nbsp;·&nbsp; 225 Medium &nbsp;·&nbsp; 66 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -257,6 +257,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | Medium | 2026-04-07 | [code](2026/2026-04/2026-04-07/2069.md) |
 | 2075 | [Decode The Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | Medium | 2026-04-04 | [code](2026/2026-04/2026-04-04/2075.md) |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | Easy | 2026-04-20 | [code](2026/2026-04/2026-04-20/2078.md) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) | Easy | 2026-10-19 | [code](2026/2026-10/2026-10-19/2089.md) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 2026-08-30 | [code](2026/2026-08/2026-08-30/2091.md) |
 | 2095 | [Delete The Middle Node Of A Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 2026-06-15 | [code](2026/2026-06/2026-06-15/2095.md) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | Medium | 2026-05-31 | [code](2026/2026-05/2026-05-31/2126.md) |
