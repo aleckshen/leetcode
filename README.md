@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**391 problems documented** &nbsp;·&nbsp; 97 Easy &nbsp;·&nbsp; 226 Medium &nbsp;·&nbsp; 67 Hard
+**392 problems documented** &nbsp;·&nbsp; 97 Easy &nbsp;·&nbsp; 227 Medium &nbsp;·&nbsp; 67 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -419,5 +419,6 @@ Without this the hook never runs and commits land with a stale index.
 | 3886 | [Sum Of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/) | Hard | 2026-10-20 | [code](2026/2026-10/2026-10-20/3886.md) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | 2026-09-04 | [code](2026/2026-09/2026-09-04/3903.md) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 2026-09-05 | [code](2026/2026-09/2026-09-05/3904.md) |
+| 3942 | [Minimum Operations To Sort A Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/) | Medium | 2026-10-22 | [code](2026/2026-10/2026-10-22/3942.md) |
 
 <!-- INDEX:END -->
