@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**392 problems documented** &nbsp;·&nbsp; 97 Easy &nbsp;·&nbsp; 227 Medium &nbsp;·&nbsp; 67 Hard
+**393 problems documented** &nbsp;·&nbsp; 97 Easy &nbsp;·&nbsp; 228 Medium &nbsp;·&nbsp; 67 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -375,6 +375,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/) | Easy | 2026-02-03 | [code](2026/2026-02/2026-02-03/3637.md) |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/) | Hard | 2026-02-04 | [code](2026/2026-02/2026-02-04/3640.md) |
 | 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/description/) | Easy | 2026-03-21 | [code](2026/2026-03/2026-03-21/3643.md) |
+| 3644 | [Maximum K To Sort A Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/) | Medium | 2026-10-23 | [code](2026/2026-10/2026-10-23/3644.md) |
 | 3650 | [Minimum Cost Path With Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/) | Medium | 2026-01-27 | [code](2026/2026-01/2026-01-27/3650.md) |
 | 3651 | [Minimum Cost Path With Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/) | Hard | 2026-01-28 | [code](2026/2026-01/2026-01-28/3651.md) |
 | 3653 | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium | 2026-04-08 | [code](2026/2026-04/2026-04-08/3653.md) |
