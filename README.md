@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**393 problems documented** &nbsp;·&nbsp; 97 Easy &nbsp;·&nbsp; 228 Medium &nbsp;·&nbsp; 67 Hard
+**394 problems documented** &nbsp;·&nbsp; 98 Easy &nbsp;·&nbsp; 228 Medium &nbsp;·&nbsp; 67 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -269,6 +269,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2265 | [Count Nodes Equal To Average Of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | 2026-09-10 | [code](2026/2026-09/2026-09-10/2265.md) |
 | 2267 | [Check If There Is A Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/) | Hard | 2026-09-29 | [code](2026/2026-09/2026-09-29/2267.md) |
 | 2333 | [Minimum Sum Of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/description/) | Medium | 2026-10-10 | [code](2026/2026-10/2026-10-10/2333.md) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/) | Easy | 2026-10-24 | [code](2026/2026-10/2026-10-24/2409.md) |
 | 2452 | [Words Within Two Edits Of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/) | Medium | 2026-04-22 | [code](2026/2026-04/2026-04-22/2452.md) |
 | 2463 | [Minimum Total Distance Travelled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | Hard | 2026-04-14 | [code](2026/2026-04/2026-04-14/2463.md) |
 | 2472 | [Maximium Number Of Non Overlapping Palindrom Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/) | Hard | 2026-09-15 | [code](2026/2026-09/2026-09-15/2472.md) |
