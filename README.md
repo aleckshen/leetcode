@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**394 problems documented** &nbsp;·&nbsp; 98 Easy &nbsp;·&nbsp; 228 Medium &nbsp;·&nbsp; 67 Hard
+**395 problems documented** &nbsp;·&nbsp; 98 Easy &nbsp;·&nbsp; 229 Medium &nbsp;·&nbsp; 67 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -174,6 +174,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | Easy | 2026-06-22 | [code](2026/2026-06/2026-06-22/1189.md) |
 | 1190 | [Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | Medium | 2026-09-27 | [code](2026/2026-09/2026-09-27/1190.md) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | Easy | 2026-01-26 | [code](2026/2026-01/2026-01-26/1200.md) |
+| 1254 | [Number Of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | Medium | 2026-10-25 | [code](2026/2026-10/2026-10-25/1254.md) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/) | Easy | 2026-07-20 | [code](2026/2026-07/2026-07-20/1260.md) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | 2026-01-12 | [code](2026/2026-01/2026-01-12/1266.md) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) | Medium | 2026-07-06 | [code](2026/2026-07/2026-07-06/1288.md) |
