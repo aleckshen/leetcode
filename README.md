@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**395 problems documented** &nbsp;·&nbsp; 98 Easy &nbsp;·&nbsp; 229 Medium &nbsp;·&nbsp; 67 Hard
+**396 problems documented** &nbsp;·&nbsp; 98 Easy &nbsp;·&nbsp; 230 Medium &nbsp;·&nbsp; 67 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -368,6 +368,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3600 | [Maximize Spanning Tree Stability With Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/) | Hard | 2026-03-12 | [code](2026/2026-03/2026-03-12/3600.md) |
 | 3612 | [Process String With Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/) | Medium | 2026-06-16 | [code](2026/2026-06/2026-06-16/3612.md) |
 | 3614 | [Process String With Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/) | Hard | 2026-06-17 | [code](2026/2026-06/2026-06-17/3614.md) |
+| 3619 | [Count Islands With Total Value Divisible By K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/) | Medium | 2026-10-26 | [code](2026/2026-10/2026-10-26/3619.md) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/) | Hard | 2026-07-03 | [code](2026/2026-07/2026-07-03/3620.md) |
 | 3622 | [Check Divisibility By Digit Sum And Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/) | Easy | 2026-08-22 | [code](2026/2026-08/2026-08-22/3622.md) |
 | 3629 | [Minimum Jumps To Reach End Via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/) | Medium | 2026-05-08 | [code](2026/2026-05/2026-05-08/3629.md) |
