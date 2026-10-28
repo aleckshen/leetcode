@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**397 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 230 Medium &nbsp;·&nbsp; 67 Hard
+**398 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 231 Medium &nbsp;·&nbsp; 67 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -420,6 +420,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3871 | [Count Commas In Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/) | Medium | 2026-09-09 | [code](2026/2026-09/2026-09-09/3871.md) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 2026-09-02 | [code](2026/2026-09/2026-09-02/3875.md) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 2026-09-03 | [code](2026/2026-09/2026-09-03/3876.md) |
+| 3882 | [Minimum XOR Path In A Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/description/) | Medium | 2026-10-28 | [code](2026/2026-10/2026-10-28/3882.md) |
 | 3886 | [Sum Of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/) | Hard | 2026-10-20 | [code](2026/2026-10/2026-10-20/3886.md) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | 2026-09-04 | [code](2026/2026-09/2026-09-04/3903.md) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 2026-09-05 | [code](2026/2026-09/2026-09-05/3904.md) |
