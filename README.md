@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**399 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 231 Medium &nbsp;·&nbsp; 68 Hard
+**400 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 232 Medium &nbsp;·&nbsp; 68 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -427,5 +427,6 @@ Without this the hook never runs and commits land with a stale index.
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 2026-09-05 | [code](2026/2026-09/2026-09-05/3904.md) |
 | 3942 | [Minimum Operations To Sort A Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/) | Medium | 2026-10-22 | [code](2026/2026-10/2026-10-22/3942.md) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/description/) | Easy | 2026-10-27 | [code](2026/2026-10/2026-10-27/3963.md) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/) | Medium | 2026-10-30 | [code](2026/2026-10/2026-10-30/3970.md) |
 
 <!-- INDEX:END -->
