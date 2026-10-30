@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**398 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 231 Medium &nbsp;·&nbsp; 67 Hard
+**399 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 231 Medium &nbsp;·&nbsp; 68 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -414,6 +414,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/) | Medium | 2026-04-17 | [code](2026/2026-04/2026-04-17/3761.md) |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/) | Easy | 2026-04-18 | [code](2026/2026-04/2026-04-18/3783.md) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
+| 3841 | [Palindromic Path Queries In A Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/?envType=daily-question&envId=2026-10-29) | Hard | 2026-10-29 | [code](2026/2026-10/2026-10-29/3841.md) |
 | 3863 | [Minimum Operations To Sort A String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/) | Medium | 2026-10-21 | [code](2026/2026-10/2026-10-21/3863.md) |
 | 3867 | [Sum Of GCD Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/) | Medium | 2026-07-16 | [code](2026/2026-07/2026-07-16/3867.md) |
 | 3870 | [Count Commas In Range](https://leetcode.com/problems/count-commas-in-range/description/) | Easy | 2026-09-08 | [code](2026/2026-09/2026-09-08/3870.md) |
