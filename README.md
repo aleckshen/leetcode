@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**400 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 232 Medium &nbsp;·&nbsp; 68 Hard
+**401 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 233 Medium &nbsp;·&nbsp; 68 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -386,6 +386,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3658 | [GCD Of Odd And Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/description/) | Easy | 2026-07-15 | [code](2026/2026-07/2026-07-15/3658.md) |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium | 2026-05-07 | [code](2026/2026-05/2026-05-07/3660.md) |
 | 3661 | [Maximum Walls Destroyed By Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Hard | 2026-04-03 | [code](2026/2026-04/2026-04-03/3661.md) |
+| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/) | Medium | 2026-10-31 | [code](2026/2026-10/2026-10-31/3665.md) |
 | 3666 | [Minimum Operations To Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/) | Hard | 2026-02-27 | [code](2026/2026-02/2026-02-27/3666.md) |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | 2026-06-09 | [code](2026/2026-06/2026-06-09/3689.md) |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | 2026-06-10 | [code](2026/2026-06/2026-06-10/3691.md) |
