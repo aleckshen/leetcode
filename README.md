@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**402 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 234 Medium &nbsp;·&nbsp; 68 Hard
+**403 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 235 Medium &nbsp;·&nbsp; 68 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -119,6 +119,7 @@ Without this the hook never runs and commits land with a stale index.
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | 2025-11-16 | [code](2025/2025-11/2025-11-16/424.md) |
 | 435 | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | 2025-12-31 | [code](2025/2025-12/2025-12-31/435.md) |
 | 453 | [Minimum Moves To Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | Medium | 2026-11-01 | [code](2026/2026-11/2026-11-01/453.md) |
+| 462 | [Minimum Moves To Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | Medium | 2026-11-02 | [code](2026/2026-11/2026-11-02/462.md) |
 | 486 | [Predict The Winner](https://leetcode.com/problems/predict-the-winner/description/) | Medium | 2026-08-01 | [code](2026/2026-08/2026-08-01/486.md) |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | Medium | 2025-12-22 | [code](2025/2025-12/2025-12-22/494.md) |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | Medium | 2025-12-21 | [code](2025/2025-12/2025-12-21/518.md) |
