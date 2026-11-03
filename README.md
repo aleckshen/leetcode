@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**403 problems documented** &nbsp;·&nbsp; 99 Easy &nbsp;·&nbsp; 235 Medium &nbsp;·&nbsp; 68 Hard
+**404 problems documented** &nbsp;·&nbsp; 100 Easy &nbsp;·&nbsp; 235 Medium &nbsp;·&nbsp; 68 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -405,6 +405,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3727 | [Maximum Alternating Sum Of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/description/) | Medium | 2026-10-13 | [code](2026/2026-10/2026-10-13/3727.md) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/) | Easy | 2026-08-04 | [code](2026/2026-08/2026-08-04/3731.md) |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/description/) | Hard | 2026-08-28 | [code](2026/2026-08/2026-08-28/3734.md) |
+| 3736 | [Minimum Moves To Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/) | Easy | 2026-11-03 | [code](2026/2026-11/2026-11-03/3736.md) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/) | Medium | 2026-06-25 | [code](2026/2026-06/2026-06-25/3737.md) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/) | Hard | 2026-06-26 | [code](2026/2026-06/2026-06-26/3739.md) |
 | 3740 | [Minimum Distance Between Three Equal Elements](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy | 2026-04-10 | [code](2026/2026-04/2026-04-10/3740.md) |
