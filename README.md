@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**404 problems documented** &nbsp;·&nbsp; 100 Easy &nbsp;·&nbsp; 235 Medium &nbsp;·&nbsp; 68 Hard
+**405 problems documented** &nbsp;·&nbsp; 100 Easy &nbsp;·&nbsp; 235 Medium &nbsp;·&nbsp; 69 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -348,6 +348,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/description/) | Easy | 2026-09-20 | [code](2026/2026-09/2026-09-20/3498.md) |
 | 3499 | [Maximize Active Section With Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium | 2026-07-21 | [code](2026/2026-07/2026-07-21/3499.md) |
 | 3501 | [Maximize Active Section With Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/) | Hard | 2026-07-22 | [code](2026/2026-07/2026-07-22/3501.md) |
+| 3505 | [Minimum Operations To Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/) | Hard | 2026-11-04 | [code](2026/2026-11/2026-11-04/3505.md) |
 | 3507 | [Minimum Pair Removal To Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/) | Easy | 2026-01-22 | [code](2026/2026-01/2026-01-22/3507.md) |
 | 3510 | [Minimum Pair Removal To Sort II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/) | Hard | 2026-01-23 | [code](2026/2026-01/2026-01-23/3510.md) |
 | 3513 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/) | Medium | 2026-07-23 | [code](2026/2026-07/2026-07-23/3513.md) |
