@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**406 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 235 Medium &nbsp;·&nbsp; 69 Hard
+**407 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 236 Medium &nbsp;·&nbsp; 69 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -286,6 +286,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2615 | [Sum Of Distances](https://leetcode.com/problems/sum-of-distances/description/) | Medium | 2026-04-23 | [code](2026/2026-04/2026-04-23/2615.md) |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | 2026-05-20 | [code](2026/2026-05/2026-05-20/2657.md) |
 | 2685 | [Count The Number Of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | Medium | 2026-07-11 | [code](2026/2026-07/2026-07-11/2685.md) |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/) | Medium | 2026-11-06 | [code](2026/2026-11/2026-11-06/2747.md) |
 | 2751 | [Robot Collisons](https://leetcode.com/problems/robot-collisions/description/) | Hard | 2026-04-01 | [code](2026/2026-04/2026-04-01/2751.md) |
 | 2754 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | Easy | 2026-06-06 | [code](2026/2026-06/2026-06-06/2754.md) |
 | 2770 | [Maximum Number Of Jumps To Reach The Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | Medium | 2026-05-10 | [code](2026/2026-05/2026-05-10/2770.md) |
