@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**407 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 236 Medium &nbsp;·&nbsp; 69 Hard
+**408 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 237 Medium &nbsp;·&nbsp; 69 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -244,6 +244,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/) | Hard | 2026-08-24 | [code](2026/2026-08/2026-08-24/1872.md) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | Medium | 2026-01-24 | [code](2026/2026-01/2026-01-24/1877.md) |
 | 1878 | [Get Biggest Three Rhombus Sums In A Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/) | Medium | 2026-03-16 | [code](2026/2026-03/2026-03-16/1878.md) |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/) | Medium | 2026-11-07 | [code](2026/2026-11/2026-11-07/1882.md) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/) | Easy | 2026-03-22 | [code](2026/2026-03/2026-03-22/1886.md) |
 | 1888 | [Number Of Flips To Make Binary The Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium | 2026-03-07 | [code](2026/2026-03/2026-03-07/1888.md) |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/) | Medium | 2026-01-18 | [code](2026/2026-01/2026-01-18/1895.md) |
