@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**408 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 237 Medium &nbsp;·&nbsp; 69 Hard
+**409 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 238 Medium &nbsp;·&nbsp; 69 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -179,6 +179,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1254 | [Number Of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | Medium | 2026-10-25 | [code](2026/2026-10/2026-10-25/1254.md) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/) | Easy | 2026-07-20 | [code](2026/2026-07/2026-07-20/1260.md) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | 2026-01-12 | [code](2026/2026-01/2026-01-12/1266.md) |
+| 1267 | [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) | Medium | 2026-11-08 | [code](2026/2026-11/2026-11-08/1267.md) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) | Medium | 2026-07-06 | [code](2026/2026-07/2026-07-06/1288.md) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | Medium | 2026-07-13 | [code](2026/2026-07/2026-07-13/1291.md) |
 | 1292 | [Maximum Side Length Of A Square With Sum Less Than Or Equal To Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) | Medium | 2026-01-19 | [code](2026/2026-01/2026-01-19/1292.md) |
