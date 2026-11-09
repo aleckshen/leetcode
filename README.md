@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**409 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 238 Medium &nbsp;·&nbsp; 69 Hard
+**410 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 238 Medium &nbsp;·&nbsp; 70 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -219,6 +219,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) | Easy | 2026-03-04 | [code](2026/2026-03/2026-03-04/1582.md) |
 | 1584 | [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Medium | 2025-12-11 | [code](2025/2025-12/2025-12-11/1584.md) |
 | 1594 | [Maximum Non Negative Product In Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) | Medium | 2026-03-23 | [code](2026/2026-03/2026-03-23/1594.md) |
+| 1606 | [Find Servers That Handled Most Number Of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) | Hard | 2026-11-09 | [code](2026/2026-11/2026-11-09/1606.md) |
 | 1614 | [Maximum Nesting Depth Of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | Easy | 2026-09-28 | [code](2026/2026-09/2026-09-28/1614.md) |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/?envType=daily-question&envId=2026-09-16) | Medium | 2026-09-16 | [code](2026/2026-09/2026-09-16/1621.md) |
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/) | Hard | 2026-03-15 | [code](2026/2026-03/2026-03-15/1622.md) |
