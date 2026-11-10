@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**410 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 238 Medium &nbsp;·&nbsp; 70 Hard
+**411 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 239 Medium &nbsp;·&nbsp; 70 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -398,6 +398,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3666 | [Minimum Operations To Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/) | Hard | 2026-02-27 | [code](2026/2026-02/2026-02-27/3666.md) |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | 2026-06-09 | [code](2026/2026-06/2026-06-09/3689.md) |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | 2026-06-10 | [code](2026/2026-06/2026-06-10/3691.md) |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/) | Medium | 2026-11-10 | [code](2026/2026-11/2026-11-10/3693.md) |
 | 3699 | [Number Of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/) | Hard | 2026-06-23 | [code](2026/2026-06/2026-06-23/3699.md) |
 | 3700 | [Number Of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/description/) | Hard | 2026-06-24 | [code](2026/2026-06/2026-06-24/3700.md) |
 | 3702 | [Longest Subsequence With Non Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 2026-08-15 | [code](2026/2026-08/2026-08-15/3702.md) |
