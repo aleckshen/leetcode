@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**411 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 239 Medium &nbsp;·&nbsp; 70 Hard
+**412 problems documented** &nbsp;·&nbsp; 101 Easy &nbsp;·&nbsp; 240 Medium &nbsp;·&nbsp; 70 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -424,6 +424,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3756 | [Concatenate Non Zero Digits And Multiply Sum By II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | 2026-07-08 | [code](2026/2026-07/2026-07-08/3756.md) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/) | Medium | 2026-04-17 | [code](2026/2026-04/2026-04-17/3761.md) |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/) | Easy | 2026-04-18 | [code](2026/2026-04/2026-04-18/3783.md) |
+| 3789 | [Minimum Cost To Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/description/) | Medium | 2026-11-11 | [code](2026/2026-11/2026-11-11/3789.md) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/) | Easy | 2026-06-13 | [code](2026/2026-06/2026-06-13/3838.md) |
 | 3841 | [Palindromic Path Queries In A Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/?envType=daily-question&envId=2026-10-29) | Hard | 2026-10-29 | [code](2026/2026-10/2026-10-29/3841.md) |
 | 3863 | [Minimum Operations To Sort A String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/) | Medium | 2026-10-21 | [code](2026/2026-10/2026-10-21/3863.md) |
