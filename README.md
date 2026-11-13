@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**413 problems documented** &nbsp;·&nbsp; 102 Easy &nbsp;·&nbsp; 240 Medium &nbsp;·&nbsp; 70 Hard
+**414 problems documented** &nbsp;·&nbsp; 102 Easy &nbsp;·&nbsp; 240 Medium &nbsp;·&nbsp; 71 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -344,6 +344,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/description/) | Easy | 2026-02-05 | [code](2026/2026-02/2026-02-05/3379.md) |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/) | Hard | 2026-09-12 | [code](2026/2026-09/2026-09-12/3414.md) |
 | 3418 | [Maximum Amount Of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/) | Medium | 2026-04-02 | [code](2026/2026-04/2026-04-02/3418.md) |
+| 3420 | [Count Non Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/) | Hard | 2026-11-13 | [code](2026/2026-11/2026-11-13/3420.md) |
 | 3448 | [Closest Equal Element Queries ](https://leetcode.com/problems/closest-equal-element-queries/description/) | Medium | 2026-04-16 | [code](2026/2026-04/2026-04-16/3448.md) |
 | 3453 | [Seperate Squares I](https://leetcode.com/problems/separate-squares-i/description/) | Medium | 2026-01-13 | [code](2026/2026-01/2026-01-13/3453.md) |
 | 3454 | [Seperate Squares II](https://leetcode.com/problems/separate-squares-ii/description/) | Hard | 2026-01-14 | [code](2026/2026-01/2026-01-14/3454.md) |
