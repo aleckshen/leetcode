@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**414 problems documented** &nbsp;·&nbsp; 102 Easy &nbsp;·&nbsp; 240 Medium &nbsp;·&nbsp; 71 Hard
+**415 problems documented** &nbsp;·&nbsp; 103 Easy &nbsp;·&nbsp; 240 Medium &nbsp;·&nbsp; 71 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -341,6 +341,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3336 | [Find The Number Of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/) | Hard | 2026-07-14 | [code](2026/2026-07/2026-07-14/3336.md) |
 | 3345 | [Smallest Divisble Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/description/) | Easy | 2026-08-06 | [code](2026/2026-08/2026-08-06/3345.md) |
 | 3348 | [Smallest Divisble Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/) | Hard | 2026-08-07 | [code](2026/2026-08/2026-08-07/3348.md) |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/description/) | Easy | 2026-11-14 | [code](2026/2026-11/2026-11-14/3364.md) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/description/) | Easy | 2026-02-05 | [code](2026/2026-02/2026-02-05/3379.md) |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/) | Hard | 2026-09-12 | [code](2026/2026-09/2026-09-12/3414.md) |
 | 3418 | [Maximum Amount Of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/) | Medium | 2026-04-02 | [code](2026/2026-04/2026-04-02/3418.md) |
