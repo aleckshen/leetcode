@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**416 problems documented** &nbsp;·&nbsp; 103 Easy &nbsp;·&nbsp; 241 Medium &nbsp;·&nbsp; 71 Hard
+**417 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 241 Medium &nbsp;·&nbsp; 71 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -274,6 +274,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | Medium | 2026-06-08 | [code](2026/2026-06/2026-06-08/2161.md) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | Medium | 2026-06-07 | [code](2026/2026-06/2026-06-07/2196.md) |
 | 2213 | [Longest Substring Of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/) | Hard | 2026-08-13 | [code](2026/2026-08/2026-08-13/2213.md) |
+| 2243 | [Calculate Digit Sum Of A String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/) | Easy | 2026-11-16 | [code](2026/2026-11/2026-11-16/2243.md) |
 | 2265 | [Count Nodes Equal To Average Of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | 2026-09-10 | [code](2026/2026-09/2026-09-10/2265.md) |
 | 2267 | [Check If There Is A Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/) | Hard | 2026-09-29 | [code](2026/2026-09/2026-09-29/2267.md) |
 | 2333 | [Minimum Sum Of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/description/) | Medium | 2026-10-10 | [code](2026/2026-10/2026-10-10/2333.md) |
