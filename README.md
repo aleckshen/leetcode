@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**418 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 241 Medium &nbsp;·&nbsp; 72 Hard
+**419 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 242 Medium &nbsp;·&nbsp; 72 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -306,6 +306,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | Medium | 2026-03-24 | [code](2026/2026-03/2026-03-24/2906.md) |
 | 2911 | [Minimum Changes To Make K Semi palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/) | Hard | 2026-11-17 | [code](2026/2026-11/2026-11-17/2911.md) |
 | 2913 | [Subarrays Distinct Element Sum Of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) | Easy | 2026-10-15 | [code](2026/2026-10/2026-10-15/2913.md) |
+| 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | Medium | 2026-11-18 | [code](2026/2026-11/2026-11-18/2914.md) |
 | 2916 | [Subarrays Distinct Element Sum Of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | Hard | 2026-10-16 | [code](2026/2026-10/2026-10-16/2916.md) |
 | 2943 | [Maximize Area Of Square Hole In Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | Medium | 2026-01-15 | [code](2026/2026-01/2026-01-15/2943.md) |
 | 2946 | [Matrix Similarity After Cycle Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/) | Easy | 2026-03-27 | [code](2026/2026-03/2026-03-27/2946.md) |
