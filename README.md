@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**419 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 242 Medium &nbsp;·&nbsp; 72 Hard
+**420 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 243 Medium &nbsp;·&nbsp; 72 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -287,6 +287,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2515 | [Shortest Distance To Target String In A Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy | 2026-04-15 | [code](2026/2026-04/2026-04-15/2515.md) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | 2026-05-19 | [code](2026/2026-05/2026-05-19/2540.md) |
 | 2553 | [Separate Digits In An Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/) | Easy | 2026-05-11 | [code](2026/2026-05/2026-05-11/2553.md) |
+| 2567 | [Minimum Score By Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/description/) | Medium | 2026-11-19 | [code](2026/2026-11/2026-11-19/2567.md) |
 | 2573 | [Find The String With LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | Hard | 2026-03-28 | [code](2026/2026-03/2026-03-28/2573.md) |
 | 2615 | [Sum Of Distances](https://leetcode.com/problems/sum-of-distances/description/) | Medium | 2026-04-23 | [code](2026/2026-04/2026-04-23/2615.md) |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | 2026-05-20 | [code](2026/2026-05/2026-05-20/2657.md) |
