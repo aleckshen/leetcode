@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**420 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 243 Medium &nbsp;·&nbsp; 72 Hard
+**421 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 243 Medium &nbsp;·&nbsp; 73 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -322,6 +322,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3014 | [Minimum Number To Push To Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 2026-07-30 | [code](2026/2026-07/2026-07-30/3014.md) |
 | 3016 | [Minimum Number To Push To Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/) | Medium | 2026-07-31 | [code](2026/2026-07/2026-07-31/3016.md) |
 | 3020 | [Find The Maximum Number Of Elements In Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/) | Medium | 2026-06-27 | [code](2026/2026-06/2026-06-27/3020.md) |
+| 3041 | [Maximize Consecutive Elements In An Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/) | Hard | 2026-11-20 | [code](2026/2026-11/2026-11-20/3041.md) |
 | 3043 | [Find The Length Of The Longest Common Preifx](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | Medium | 2026-05-21 | [code](2026/2026-05/2026-05-21/3043.md) |
 | 3047 | [Find The Largest Area Of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/) | Medium | 2026-01-17 | [code](2026/2026-01/2026-01-17/3047.md) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/) | Easy | 2026-08-20 | [code](2026/2026-08/2026-08-20/3069.md) |
