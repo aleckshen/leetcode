@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**421 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 243 Medium &nbsp;·&nbsp; 73 Hard
+**422 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 244 Medium &nbsp;·&nbsp; 73 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -344,6 +344,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | Hard | 2026-07-17 | [code](2026/2026-07/2026-07-17/3312.md) |
 | 3314 | [Construct Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/) | Easy | 2026-01-20 | [code](2026/2026-01/2026-01-20/3314.md) |
 | 3315 | [Construct The Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/) | Medium | 2026-01-21 | [code](2026/2026-01/2026-01-21/3315.md) |
+| 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/) | Medium | 2026-11-21 | [code](2026/2026-11/2026-11-21/3331.md) |
 | 3336 | [Find The Number Of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/) | Hard | 2026-07-14 | [code](2026/2026-07/2026-07-14/3336.md) |
 | 3345 | [Smallest Divisble Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/description/) | Easy | 2026-08-06 | [code](2026/2026-08/2026-08-06/3345.md) |
 | 3348 | [Smallest Divisble Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/) | Hard | 2026-08-07 | [code](2026/2026-08/2026-08-07/3348.md) |
