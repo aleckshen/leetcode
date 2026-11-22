@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**422 problems documented** &nbsp;·&nbsp; 104 Easy &nbsp;·&nbsp; 244 Medium &nbsp;·&nbsp; 73 Hard
+**423 problems documented** &nbsp;·&nbsp; 105 Easy &nbsp;·&nbsp; 244 Medium &nbsp;·&nbsp; 73 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -268,6 +268,7 @@ Without this the hook never runs and commits land with a stale index.
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) | Easy | 2026-10-19 | [code](2026/2026-10/2026-10-19/2089.md) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 2026-08-30 | [code](2026/2026-08/2026-08-30/2091.md) |
 | 2095 | [Delete The Middle Node Of A Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 2026-06-15 | [code](2026/2026-06/2026-06-15/2095.md) |
+| 2124 | [Check If All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/) | Easy | 2026-11-22 | [code](2026/2026-11/2026-11-22/2124.md) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | Medium | 2026-05-31 | [code](2026/2026-05/2026-05-31/2126.md) |
 | 2130 | [Maximum Twin Sum Of A Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | Medium | 2026-06-14 | [code](2026/2026-06/2026-06-14/2130.md) |
 | 2144 | [Minimum Cost Of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | Easy | 2026-06-01 | [code](2026/2026-06/2026-06-01/2144.md) |
