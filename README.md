@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**423 problems documented** &nbsp;·&nbsp; 105 Easy &nbsp;·&nbsp; 244 Medium &nbsp;·&nbsp; 73 Hard
+**424 problems documented** &nbsp;·&nbsp; 105 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 73 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -191,6 +191,7 @@ Without this the hook never runs and commits land with a stale index.
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard | 2026-05-24 | [code](2026/2026-05/2026-05-24/1340.md) |
 | 1344 | [Angle Between Hands Of A Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | 2026-06-18 | [code](2026/2026-06/2026-06-18/1344.md) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/) | Hard | 2026-05-18 | [code](2026/2026-05/2026-05-18/1345.md) |
+| 1352 | [Product Of The Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/) | Medium | 2026-11-23 | [code](2026/2026-11/2026-11-23/1352.md) |
 | 1356 | [Sort Integers By The Number Of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/) | Easy | 2026-02-25 | [code](2026/2026-02/2026-02-25/1356.md) |
 | 1358 | [Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | Medium | 2026-06-30 | [code](2026/2026-06/2026-06-30/1358.md) |
 | 1382 | [Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | 2026-02-09 | [code](2026/2026-02/2026-02-09/1382.md) |
