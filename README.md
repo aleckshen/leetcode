@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**424 problems documented** &nbsp;·&nbsp; 105 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 73 Hard
+**425 problems documented** &nbsp;·&nbsp; 106 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 73 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -352,6 +352,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3348 | [Smallest Divisble Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/) | Hard | 2026-08-07 | [code](2026/2026-08/2026-08-07/3348.md) |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/description/) | Easy | 2026-11-14 | [code](2026/2026-11/2026-11-14/3364.md) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/description/) | Easy | 2026-02-05 | [code](2026/2026-02/2026-02-05/3379.md) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/) | Easy | 2026-11-24 | [code](2026/2026-11/2026-11-24/3411.md) |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/) | Hard | 2026-09-12 | [code](2026/2026-09/2026-09-12/3414.md) |
 | 3418 | [Maximum Amount Of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/) | Medium | 2026-04-02 | [code](2026/2026-04/2026-04-02/3418.md) |
 | 3420 | [Count Non Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/) | Hard | 2026-11-13 | [code](2026/2026-11/2026-11-13/3420.md) |
