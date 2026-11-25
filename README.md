@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**425 problems documented** &nbsp;·&nbsp; 106 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 73 Hard
+**426 problems documented** &nbsp;·&nbsp; 106 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 74 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -450,6 +450,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3886 | [Sum Of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/) | Hard | 2026-10-20 | [code](2026/2026-10/2026-10-20/3886.md) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | 2026-09-04 | [code](2026/2026-09/2026-09-04/3903.md) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 2026-09-05 | [code](2026/2026-09/2026-09-05/3904.md) |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/description/) | Hard | 2026-11-25 | [code](2026/2026-11/2026-11-25/3934.md) |
 | 3942 | [Minimum Operations To Sort A Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/) | Medium | 2026-10-22 | [code](2026/2026-10/2026-10-22/3942.md) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/description/) | Easy | 2026-10-27 | [code](2026/2026-10/2026-10-27/3963.md) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/) | Medium | 2026-10-30 | [code](2026/2026-10/2026-10-30/3970.md) |
