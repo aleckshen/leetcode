@@ -24,7 +24,7 @@ Without this the hook never runs and commits land with a stale index.
 
 <!-- INDEX:START -->
 
-**426 problems documented** &nbsp;·&nbsp; 106 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 74 Hard
+**427 problems documented** &nbsp;·&nbsp; 107 Easy &nbsp;·&nbsp; 245 Medium &nbsp;·&nbsp; 74 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
@@ -350,6 +350,7 @@ Without this the hook never runs and commits land with a stale index.
 | 3336 | [Find The Number Of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/) | Hard | 2026-07-14 | [code](2026/2026-07/2026-07-14/3336.md) |
 | 3345 | [Smallest Divisble Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/description/) | Easy | 2026-08-06 | [code](2026/2026-08/2026-08-06/3345.md) |
 | 3348 | [Smallest Divisble Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/) | Hard | 2026-08-07 | [code](2026/2026-08/2026-08-07/3348.md) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/description/) | Easy | 2026-11-26 | [code](2026/2026-11/2026-11-26/3360.md) |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/description/) | Easy | 2026-11-14 | [code](2026/2026-11/2026-11-14/3364.md) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/description/) | Easy | 2026-02-05 | [code](2026/2026-02/2026-02-05/3379.md) |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/) | Easy | 2026-11-24 | [code](2026/2026-11/2026-11-24/3411.md) |
